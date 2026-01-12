@@ -63,7 +63,7 @@ half[3] |
 0 #????
 #First Phase
 half[2] |
-5, | #Phase Duration
+3, | #Phase Duration
 0 #Padding
 float[4] |
 0.4, | #Phase Speed
@@ -74,21 +74,21 @@ byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-120, | #Damage
+155, | #Damage
 2000, | #Down
-130, | #Knockback Velocity
-0, | #Knockback Angle
+285, | #Knockback Velocity
+70, | #Knockback Angle
 25, | #Hitstun
 100, | #On-Hit Gravity
-130, | #Knockback Velocity (Downed)
-80, | #Knockback Angle (Downed)
+285, | #Knockback Velocity (Downed)
+70, | #Knockback Angle (Downed)
 100 #On-Hit Gravity (Downed)
 #Second Phase
 half[2] |
-10, | #Phase Duration
+3, | #Phase Duration
 0 #Padding
 float[4] |
-0.104, | #Phase Speed
+0.204, | #Phase Speed
 0.003, | #Horizontal Homing
 0.003, | #Vertical Homing
 0.35 #Shot Size
@@ -96,37 +96,37 @@ byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-35, | #Damage
-300, | #Down
-140, | #Knockback Velocity
-140, | #Knockback Angle
+110, | #Damage
+900, | #Down
+200, | #Knockback Velocity
+70, | #Knockback Angle
 30, | #Hitstun
-50, | #On-Hit Gravity
-140, | #Knockback Velocity (Downed)
-140, | #Knockback Angle (Downed)
-50 #On-Hit Gravity (Downed)
+100, | #On-Hit Gravity
+200, | #Knockback Velocity (Downed)
+70, | #Knockback Angle (Downed)
+100 #On-Hit Gravity (Downed)
 #Third Phase
 half[2] |
-0, | #Phase Duration
+9, | #Phase Duration
 0 #Padding
 float[4] |
-0.0, | #Phase Speed
-0.0, | #Horizontal Homing
-0.0, | #Vertical Homing
-0.0 #Shot Size
+0.092, | #Phase Speed
+0.003, | #Horizontal Homing
+0.003, | #Vertical Homing
+0.4 #Shot Size
 byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-0, | #Damage
-0, | #Down
-0, | #Knockback Velocity
-0, | #Knockback Angle
-0, | #Hitstun
-0, | #On-Hit Gravity
-0, | #Knockback Velocity (Downed)
-0, | #Knockback Angle (Downed)
-0 #On-Hit Gravity (Downed)
+85, | #Damage
+400, | #Down
+140, | #Knockback Velocity
+70, | #Knockback Angle
+30, | #Hitstun
+100, | #On-Hit Gravity
+140, | #Knockback Velocity (Downed)
+70, | #Knockback Angle (Downed)
+100 #On-Hit Gravity (Downed)
 #Fourth Phase
 half[2] |
 0, | #Phase Duration
@@ -180,7 +180,7 @@ byte[6] |
 1, | #Rounds per Shot
 1, | #Shot Spread (00 for Vertical, 01 for Horizontal)
 10, | #Delay Between Shots
-45 #Endlag
+38 #Endlag
 half 0 #Shot Randomization
 byte[2] |
 0, | #Spread Phase
@@ -191,7 +191,7 @@ half[3] |
 0 #????
 #First Phase
 half[2] |
-5, | #Phase Duration
+3, | #Phase Duration
 0 #Padding
 float[4] |
 0.4, | #Phase Speed
@@ -202,21 +202,21 @@ byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-120, | #Damage
+155, | #Damage
 2000, | #Down
-130, | #Knockback Velocity
-0, | #Knockback Angle
-30, | #Hitstun
+285, | #Knockback Velocity
+70, | #Knockback Angle
+25, | #Hitstun
 100, | #On-Hit Gravity
-130, | #Knockback Velocity (Downed)
-80, | #Knockback Angle (Downed)
+285, | #Knockback Velocity (Downed)
+70, | #Knockback Angle (Downed)
 100 #On-Hit Gravity (Downed)
 #Second Phase
 half[2] |
-10, | #Phase Duration
+3, | #Phase Duration
 0 #Padding
 float[4] |
-0.104, | #Phase Speed
+0.204, | #Phase Speed
 0.003, | #Horizontal Homing
 0.003, | #Vertical Homing
 0.35 #Shot Size
@@ -224,37 +224,37 @@ byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-35, | #Damage
-300, | #Down
-140, | #Knockback Velocity
-140, | #Knockback Angle
-25, | #Hitstun
-50, | #On-Hit Gravity
-140, | #Knockback Velocity (Downed)
-140, | #Knockback Angle (Downed)
-50 #On-Hit Gravity (Downed)
+110, | #Damage
+900, | #Down
+200, | #Knockback Velocity
+70, | #Knockback Angle
+30, | #Hitstun
+100, | #On-Hit Gravity
+200, | #Knockback Velocity (Downed)
+70, | #Knockback Angle (Downed)
+100 #On-Hit Gravity (Downed)
 #Third Phase
 half[2] |
-0, | #Phase Duration
+9, | #Phase Duration
 0 #Padding
 float[4] |
-0.0, | #Phase Speed
-0.0, | #Horizontal Homing
-0.0, | #Vertical Homing
-0.0 #Shot Size
+0.092, | #Phase Speed
+0.003, | #Horizontal Homing
+0.003, | #Vertical Homing
+0.4 #Shot Size
 byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-0, | #Damage
-0, | #Down
-0, | #Knockback Velocity
-0, | #Knockback Angle
-0, | #Hitstun
-0, | #On-Hit Gravity
-0, | #Knockback Velocity (Downed)
-0, | #Knockback Angle (Downed)
-0 #On-Hit Gravity (Downed)
+85, | #Damage
+400, | #Down
+140, | #Knockback Velocity
+70, | #Knockback Angle
+30, | #Hitstun
+100, | #On-Hit Gravity
+140, | #Knockback Velocity (Downed)
+70, | #Knockback Angle (Downed)
+100 #On-Hit Gravity (Downed)
 #Fourth Phase
 half[2] |
 0, | #Phase Duration
