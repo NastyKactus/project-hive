@@ -43,12 +43,12 @@ float 1.0 #Trail Width, Start of Ground Shot
 #Ground Shot#
 #############
 byte[6] |
-3, | #Startup
-1, | #Number of Shots
+1, | #Startup
+2, | #Number of Shots
 1, | #Rounds per Shot
-0, | #Shot Spread (00 for Vertical, 01 for Horizontal)
-0, | #Delay Between Shots
-4 #Endlag
+1, | #Shot Spread (00 for Vertical, 01 for Horizontal)
+4, | #Delay Between Shots
+5 #Endlag
 half 0 #Shot Randomization
 byte[2] |
 0, | #Spread Phase
@@ -59,7 +59,7 @@ half[3] |
 0 #????
 #First Phase
 half[2] |
-3, | #Phase Duration
+5, | #Phase Duration
 0 #Padding
 float[4] |
 0.355, | #Phase Speed
@@ -72,7 +72,7 @@ byte[2] |
 half[9] |
 23, | #Damage
 350, | #Down
-20, | #Knockback Velocity
+10, | #Knockback Velocity
 0, | #Knockback Angle
 60, | #Hitstun
 100, | #On-Hit Gravity
@@ -171,12 +171,12 @@ half[9] |
 #Air Shot#
 ##########
 byte[6] |
-3, | #Startup
-1, | #Number of Shots
+1, | #Startup
+2, | #Number of Shots
 1, | #Rounds per Shot
-0, | #Shot Spread (00 for Vertical, 01 for Horizontal)
-0, | #Delay Between Shots
-4 #Endlag
+1, | #Shot Spread (00 for Vertical, 01 for Horizontal)
+4, | #Delay Between Shots
+5 #Endlag
 half 0 #Shot Randomization
 byte[2] |
 0, | #Spread Phase
@@ -190,7 +190,7 @@ half[2] |
 3, | #Phase Duration
 0 #Padding
 float[4] |
-0.355, | #Phase Speed
+0.45, | #Phase Speed
 0.25, | #Horizontal Homing
 0.25, | #Vertical Homing
 0.3 #Shot Size
@@ -200,7 +200,7 @@ byte[2] |
 half[9] |
 23, | #Damage
 350, | #Down
-20, | #Knockback Velocity
+10, | #Knockback Velocity
 0, | #Knockback Angle
 60, | #Hitstun
 100, | #On-Hit Gravity
