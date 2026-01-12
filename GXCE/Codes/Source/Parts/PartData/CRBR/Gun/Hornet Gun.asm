@@ -78,11 +78,11 @@ half[9] |
 450, | #Down
 10, | #Knockback Velocity
 0, | #Knockback Angle
-20, | #Hitstun
-100, | #On-Hit Gravity
-100, | #Knockback Velocity (Downed)
+25, | #Hitstun
+25, | #On-Hit Gravity
+15, | #Knockback Velocity (Downed)
 35, | #Knockback Angle (Downed)
-100 #On-Hit Gravity (Downed)
+25 #On-Hit Gravity (Downed)
 #Second Phase
 half[2] |
 10, | #Phase Duration
@@ -100,11 +100,11 @@ half[9] |
 450, | #Down
 10, | #Knockback Velocity
 0, | #Knockback Angle
-5, | #Hitstun
-100, | #On-Hit Gravity
-100, | #Knockback Velocity (Downed)
+25, | #Hitstun
+25, | #On-Hit Gravity
+15, | #Knockback Velocity (Downed)
 35, | #Knockback Angle (Downed)
-100 #On-Hit Gravity (Downed)
+25 #On-Hit Gravity (Downed)
 #Third Phase
 half[2] |
 72, | #Phase Duration
@@ -122,11 +122,11 @@ half[9] |
 450, | #Down
 10, | #Knockback Velocity
 0, | #Knockback Angle
-5, | #Hitstun
-100, | #On-Hit Gravity
-100, | #Knockback Velocity (Downed)
+10, | #Hitstun
+25, | #On-Hit Gravity
+15, | #Knockback Velocity (Downed)
 35, | #Knockback Angle (Downed)
-100 #On-Hit Gravity (Downed)
+25 #On-Hit Gravity (Downed)
 #Fourth Phase
 half[2] |
 0, | #Phase Duration
@@ -206,11 +206,11 @@ half[9] |
 450, | #Down
 10, | #Knockback Velocity
 0, | #Knockback Angle
-20, | #Hitstun
-100, | #On-Hit Gravity
-100, | #Knockback Velocity (Downed)
+25, | #Hitstun
+25, | #On-Hit Gravity
+15, | #Knockback Velocity (Downed)
 25, | #Knockback Angle (Downed)
-100 #On-Hit Gravity (Downed)
+25 #On-Hit Gravity (Downed)
 #Second Phase
 half[2] |
 10, | #Phase Duration
@@ -228,11 +228,11 @@ half[9] |
 450, | #Down
 10, | #Knockback Velocity
 0, | #Knockback Angle
-5, | #Hitstun
-100, | #On-Hit Gravity
-100, | #Knockback Velocity (Downed)
+25, | #Hitstun
+25, | #On-Hit Gravity
+15, | #Knockback Velocity (Downed)
 25, | #Knockback Angle (Downed)
-100 #On-Hit Gravity (Downed)
+25 #On-Hit Gravity (Downed)
 #Third Phase
 half[2] |
 110, | #Phase Duration
@@ -250,11 +250,11 @@ half[9] |
 450, | #Down
 10, | #Knockback Velocity
 0, | #Knockback Angle
-5, | #Hitstun
-100, | #On-Hit Gravity
-100, | #Knockback Velocity (Downed)
+10, | #Hitstun
+25, | #On-Hit Gravity
+15, | #Knockback Velocity (Downed)
 35, | #Knockback Angle (Downed)
-100 #On-Hit Gravity (Downed)
+25 #On-Hit Gravity (Downed)
 #Fourth Phase
 half[2] |
 0, | #Phase Duration
