@@ -213,7 +213,7 @@ half[9] |
 100 #On-Hit Gravity (Downed)
 #Second Phase
 half[2] |
-2, | #Phase Duration
+60, | #Phase Duration
 0 #Padding
 float[4] |
 0.002, | #Phase Speed
