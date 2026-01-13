@@ -52,6 +52,8 @@
 .include "Source/Parts/PartData/CRBR/Body/SJSplendor.asm"
 .include "Source/Parts/PartData/CRBR/Body/SJRahu.asm"
 
+.include "Source/Parts/PartData/CRBR/Body/OTShrike.asm"
+
 #Guns
 .include "Source/Parts/PartData/CRBR/Gun/Basic Gun.asm"
 .include "Source/Parts/PartData/CRBR/Gun/Needle Gun.asm"
