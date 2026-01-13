@@ -77,10 +77,10 @@ half [38] |
 word [8] |
 0x91E589F1, 0x935D0000, 0x00000000, 0x00000000, 0x00000000, 0x00000000, 0x00000000, 0x00000000 #Charge Title
 byte [2] |
-2, |    #Invulnerability
+3, |    #Invulnerability
 0       #Invisibility
 half [16] |
-130, |  #Charge Damage
+120, |  #Charge Damage
 180, |  #Knockback Velocity
 80, |   #Knockback Angle
 30, |   #Homing
