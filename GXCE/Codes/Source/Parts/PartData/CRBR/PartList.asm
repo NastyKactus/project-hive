@@ -114,6 +114,8 @@
 .include "Source/Parts/PartData/CRBR/Gun/Blade Gun.asm"
 
 .include "Source/Parts/PartData/CRBR/Gun/Phoenix Gun.asm"
+.include "Source/Parts/PartData/CRBR/Gun/Scorpion Gun.asm"
+.include "Source/Parts/PartData/CRBR/Gun/Slide Gun.asm"
 #Bomb
 .include "Source/Parts/PartData/CRBR/Bomb/Standard Bomb R.asm"
 .include "Source/Parts/PartData/CRBR/Bomb/Standard Bomb F.asm"
@@ -234,6 +236,7 @@
 
 .include "Source/Parts/PartData/CRBR/Pod/Satellite Pod H.asm"
 .include "Source/Parts/PartData/CRBR/Pod/Beast Pod F.asm"
+.include "Source/Parts/PartData/CRBR/Pod/Sky Wave Pod.asm"
 
 #Legs
 .include "Source/Parts/PartData/CRBR/Leg/Standard Legs.asm"
