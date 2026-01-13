@@ -28,7 +28,7 @@ Charge: Charges towards
 opponent and attacks."
 RoboBytes:
 half[1] |
-600, #Down
+800, #Down
 byte[22] |
 120, | #Defense
 120, | #Knockback
