@@ -51,7 +51,7 @@ byte[6] |
 1, | #Rounds per Shot
 0, | #Shot Spread (00 for Vertical, 01 for Horizontal)
 9, | #Delay Between Shots
-26 #Endlag
+28 #Endlag
 half 0 #Shot Randomization
 byte[2] |
 0, | #Spread Phase
@@ -74,7 +74,7 @@ byte[2] |
 0 #Padding
 half[9] |
 36, | #Damage
-300, | #Down
+400, | #Down
 100, | #Knockback Velocity
 25, | #Knockback Angle
 20, | #Hitstun
@@ -96,7 +96,7 @@ byte[2] |
 0 #Padding
 half[9] |
 32, | #Damage
-250, | #Down
+350, | #Down
 100, | #Knockback Velocity
 25, | #Knockback Angle
 16, | #Hitstun
@@ -202,7 +202,7 @@ byte[2] |
 0 #Padding
 half[9] |
 32, | #Damage
-300, | #Down
+400, | #Down
 15, | #Knockback Velocity
 0, | #Knockback Angle
 20, | #Hitstun
@@ -224,7 +224,7 @@ byte[2] |
 0 #Padding
 half[9] |
 32, | #Damage
-300, | #Down
+400, | #Down
 15, | #Knockback Velocity
 0, | #Knockback Angle
 20, | #Hitstun
@@ -246,7 +246,7 @@ byte[2] |
 0 #Padding
 half[9] |
 32, | #Damage
-300, | #Down
+350, | #Down
 15, | #Knockback Velocity
 0, | #Knockback Angle
 16, | #Hitstun
