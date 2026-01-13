@@ -53,6 +53,7 @@
 .include "Source/Parts/PartData/CRBR/Body/SJRahu.asm"
 
 .include "Source/Parts/PartData/CRBR/Body/OTShrike.asm"
+.include "Source/Parts/PartData/CRBR/Body/SFOilCan.asm"
 
 #Guns
 .include "Source/Parts/PartData/CRBR/Gun/Basic Gun.asm"
