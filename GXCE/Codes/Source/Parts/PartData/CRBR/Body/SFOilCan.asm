@@ -21,30 +21,31 @@ PartDescription:
     String|
 "The one and only.
 A Shining Fighter model 
-with lower defense. 
+with increased offense,
+but poor defense. 
 Weakest of the robos. 
-Collision: Charges toward 
-its opponent."
+Collision: Flails wildly
+towards its opponent."
 RoboBytes:
 half[1] |
-200, #Down
+1000, #Down
 byte[22] |
-115, | #Defense
+105, | #Defense
 115, | #Knockback
-90, | #Hitstun
+100, | #Hitstun
 0, | #Illegal Toggle
 150, | #Time Spent Down without Mashing
 57, | #Time Spent Down with Mashing
-38, | #Damage taken from guns when downed
-45, | #Damage taken from bombs when downed
-45, | #Damage taken from pods when downed
-33, | #Damage taken from charges when downed
-100, | #Gun Damage
-100, | #Bomb Damage
-100, | #Pod Damage
-100, | #Gun Endlag
-5, 10, 15, | #Reduced, Unmodified, and Boosted Air Dash Startup
-5, 15, 30, | #Reduced, Unmodified, and Boosted Dash Landing Lag
+30, | #Damage taken from guns when downed
+50, | #Damage taken from bombs when downed
+50, | #Damage taken from pods when downed
+30, | #Damage taken from charges when downed
+110, | #Gun Damage
+110, | #Bomb Damage
+110, | #Pod Damage
+110, | #Gun Endlag
+4, 6, 8, | #Reduced, Unmodified, and Boosted Air Dash Startup
+5, 10, 15, | #Reduced, Unmodified, and Boosted Dash Landing Lag
 0, | #Air Dash Type(00 = Normal Air Dash, 01 = Continuous Jump, 02 = LS)
 2    #Number of Continuous Jumps
 half[3] |
@@ -55,16 +56,16 @@ byte[6] |
 0, | #Air Dash Angle
 5, 10, 15    #Reduced, Unmodified, and Boosted Air Dash Length
 half [38] |
-150, 300, 396, | #Reduced, Unmodified, and Boosted Air Dash Speed
-10, 20, 40, | #Reduced, Unmodified, and Boosted LS Dash Turning
-48, 80, 96, | #Reduced, Unmodified, and Boosted Run Speed
-90, 150, 240, | #Reduced, Unmodified, and Boosted Ground Acceleration
+250, 340, 430, | #Reduced, Unmodified, and Boosted Air Dash Speed
+0, 0, 0, | #Reduced, Unmodified, and Boosted LS Dash Turning
+60, 75, 90, | #Reduced, Unmodified, and Boosted Run Speed
+150, 200, 300, | #Reduced, Unmodified, and Boosted Ground Acceleration
 100, 200, 400, | #Reduced, Unmodified, and Boosted Ground Turning
-120, 250, 375, | #Reduced, Unmodified, and Boosted Jump Height
-4, 8, 16, | #Reduced, Unmodified, and Boosted Jump Speed
-100, 140, 180, | #Reduced, Unmodified, and Boosted Lateral Air Speed
-50, 100, 325, | #Reduced, Unmodified, and Boosted Air Acceleration
-10, 20, 40, | #Reduced, Unmodified, and Boosted Landing Lag
+125, 250, 375, | #Reduced, Unmodified, and Boosted Jump Height
+4, 8, 12, | #Reduced, Unmodified, and Boosted Jump Speed
+90, 110, 180, | #Reduced, Unmodified, and Boosted Lateral Air Speed
+50, 100, 400, | #Reduced, Unmodified, and Boosted Air Acceleration
+10, 20, 30, | #Reduced, Unmodified, and Boosted Landing Lag
 50, 100, 150, | #Reduced, Unmodified, and Boosted Gravity
 35, | #Collision Box Size Related
 50, | #Collision Box Size Related
@@ -77,19 +78,19 @@ byte [2] |
 2, |    #Invulnerability
 0       #Invisibility
 half [16] |
-135, |  #Charge Damage
+160, |  #Charge Damage
 150, |  #Knockback Velocity
 30, |   #Knockback Angle
 10, |   #Homing
-10, |   #Startup Phase Duration (+3 for # of Frames)
+8, |   #Startup Phase Duration (+3 for # of Frames)
 20, |   #Attack Phase Duration (+1 for # of Frames)
-35, |   #Recovery Phase Duration
+20, |   #Recovery Phase Duration
 80, |   #Startup Phase Speed
-96, |  #Attack Phase Speed
+120, |  #Attack Phase Speed
 80, |   #Recovery Phase Speed
 0, |    #Startup Phase Angle
 0, |    #Attack Phase Angle
--90, |  #Recovery Phase Angle
+-20, |  #Recovery Phase Angle
 40, |   #Hitbox Size Related
 20, |   #Hitbox Size Related
 0       #Hitbox Size Related
@@ -116,7 +117,7 @@ half [16] |
 20, |   #Hitbox Size Related
 -50       #Hitbox Size Related
 ExtraBytes:
-byte [5] 1, 3, 5, 5, 8   #Stat Line
+byte [5] 6, 3, 5, 5, 8   #Stat Line
 byte [1] 3  #Body Type. 0 = Normal. 1 = Armor. 2 = Speed. 3 = Other. 4 = Nothing.
 MASTERCODE:
 PULSE
