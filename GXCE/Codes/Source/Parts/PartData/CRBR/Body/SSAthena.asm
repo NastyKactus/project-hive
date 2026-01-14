@@ -93,7 +93,7 @@ half [16] |
 0, |    #Startup Phase Angle
 0, |    #Attack Phase Angle
 185, |  #Recovery Phase Angle
-40, |   #Hitbox Size Related
+70, |   #Hitbox Size Related
 20, |   #Hitbox Size Related
 0       #Hitbox Size Related
 word [8] |
