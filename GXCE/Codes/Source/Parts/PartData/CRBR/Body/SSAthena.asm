@@ -14,10 +14,10 @@ Athena [NastyKactus]
     .BA<-BuildTitle
 PartName:
     String|
-"Athena (Kactus)"
+"Athena"
 BuildTitle:
     String|
-" (Kactus)"
+""
 PartDescription:
     String|
 "Sassy Stunner (Normal) 

@@ -14,10 +14,10 @@ Glory [Project Hive]
     .BA<-BuildTitle
 PartName:
     String|
-"Glory (CRBR)"
+"Glory"
 BuildTitle:
     String|
-" (CRBR)"
+""
 PartDescription:
     String|
 "Shining Fighter (Speed) 
