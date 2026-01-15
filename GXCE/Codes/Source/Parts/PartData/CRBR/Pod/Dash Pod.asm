@@ -33,8 +33,8 @@ byte[4] |
 0x00 #Empty Data?
 half [8] |
 0, | #Angle between simultaneous pods (Automatically Centered)
-0, | #Horizontal Explosion Trigger Radius
-0, | #Vertical Explosion Trigger Radius
+6000, | #Horizontal Explosion Trigger Radius
+6000, | #Vertical Explosion Trigger Radius
 1, | #Fuse Time
 0, | #Angle Pod faces at ground launch
 0x0000, | #Empty Data?
