@@ -33,8 +33,8 @@ byte[4] |
 0x00 #Empty Data?
 half [8] |
 0, | #Angle between simultaneous pods (Automatically Centered)
-6000, | #Horizontal Explosion Trigger Radius
-6000, | #Vertical Explosion Trigger Radius
+9000, | #Horizontal Explosion Trigger Radius
+9000, | #Vertical Explosion Trigger Radius
 1, | #Fuse Time
 0, | #Angle Pod faces at ground launch
 0x0000, | #Empty Data?
@@ -55,8 +55,8 @@ half [13] |
 0, | #Duration of pause for switching between roaming and locked on.
 200, | #Initial Ground Launch Angle
 200, | #Initial Air Launch Angle
-100, | #Initial Ground Launch Speed
-100, | #Initial Air Launch Speed
+800, | #Initial Ground Launch Speed
+800, | #Initial Air Launch Speed
 10, | #Initial Ground Launch Duration
 10 #Initial Air Launch Duration
 byte[4] |
@@ -79,7 +79,7 @@ half [10] |
 10, | #Knockback Angle
 8, | #Hitstun
 100, | #On-Hit Gravity
-250, | #Knockback Velocity (Downed)
+50, | #Knockback Velocity (Downed)
 10, | #Knockback Anlge (Downed)
 100, | #On-Hit Gravity (Downed)
 0x0000 #Empty Data 
