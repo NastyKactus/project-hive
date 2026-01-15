@@ -40,8 +40,8 @@ half [3] |
 1000, | #Projectile Speed
 0x0000 #Empty Data?
 byte [2] |
-1, | #Number of Explosions
-1 #Delay between Explosions
+3, | #Number of Explosions
+2 #Delay between Explosions
 half [3] |
 14, | #Explosion Expansion Radius
 35, | #Lingering Hitbox Duration
