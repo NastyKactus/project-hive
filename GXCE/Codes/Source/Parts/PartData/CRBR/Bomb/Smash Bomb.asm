@@ -20,7 +20,8 @@ BuildTitle:
 ""
 PartDescription:
     String|
-"Ground: Explodes above you.
+"Ground: Explodes three times 
+in a line above you.
 Air: Same as Ground.
 Blast: High lingering,
 knocks opponent sideways."
