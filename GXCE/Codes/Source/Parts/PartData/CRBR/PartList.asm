@@ -122,6 +122,8 @@
 .include "Source/Parts/PartData/CRBR/Gun/Phoenix Gun.asm"
 .include "Source/Parts/PartData/CRBR/Gun/Scorpion Gun.asm"
 .include "Source/Parts/PartData/CRBR/Gun/Slide Gun.asm"
+.include "Source/Parts/PartData/CRBR/Gun/Rising Gun.asm"
+
 #Bomb
 .include "Source/Parts/PartData/CRBR/Bomb/Standard Bomb R.asm"
 .include "Source/Parts/PartData/CRBR/Bomb/Standard Bomb F.asm"
