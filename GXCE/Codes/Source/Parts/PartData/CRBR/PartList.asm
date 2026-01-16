@@ -53,6 +53,9 @@
 .include "Source/Parts/PartData/CRBR/Body/SJRahu.asm"
 
 .include "Source/Parts/PartData/CRBR/Body/OTShrike.asm"
+.include "Source/Parts/PartData/CRBR/Body/OTDourHead.asm"
+.include "Source/Parts/PartData/CRBR/Body/OTPeregrine.asm"
+
 .include "Source/Parts/PartData/CRBR/Body/SFOilCan.asm"
 
 #Guns
