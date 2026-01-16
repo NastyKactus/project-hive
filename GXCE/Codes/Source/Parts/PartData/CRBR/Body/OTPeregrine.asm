@@ -2,7 +2,7 @@
 Geezer [Kactus]
 ######################################
 .alias PartType = 0x00
-.alias PartBase = 0x12
+.alias PartBase = 0x0A
 .alias ModelID = 0x0B
     .BA<-PartName
     .BA->$8023BCF0

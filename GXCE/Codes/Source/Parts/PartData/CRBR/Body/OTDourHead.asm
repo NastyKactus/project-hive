@@ -17,7 +17,7 @@ PartName:
 "Fogey"
 BuildTitle:
     String|
-"Fogey"
+""
 PartDescription:
     String|
 "Old Timer (Armor)
