@@ -90,8 +90,8 @@ half [16] |
 0, |    #Startup Phase Angle
 0, |    #Attack Phase Angle
 -20, |  #Recovery Phase Angle
-85, |   #Hitbox Size Related
-20, |   #Hitbox Size Related
+65, |   #Hitbox Size Related
+25, |   #Hitbox Size Related
 0       #Hitbox Size Related
 word [8] |
 0x8354837D, 0x815B835C, 0x838B8367, 0x82510000, 0x00000000, 0x00000000, 0x00000000, 0x00000000 #Unused Charge Title

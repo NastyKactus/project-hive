@@ -29,7 +29,7 @@ Recommended Range: Short"
 RoboBytes:
 byte[56] |
 0,| #Illegal Toggle
-0, | #Slideshot Duration
+5, | #Slideshot Duration
 0, | #Related to Homing when rounds aren't facing the opponent
 0, 0, 0, 0, | #Nothing?
 0, | #Trail (0 for Invisible, 1 for Trail VFX)
