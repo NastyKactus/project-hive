@@ -22,8 +22,7 @@ PartDescription:
 "The one and only.
 A Shining Fighter model 
 with increased offense,
-but poor defense and mobility. 
-Sickest of the robos.
+but poor defense and mobility.
 Collision: Flails wildly
 towards its opponent."
 RoboBytes:

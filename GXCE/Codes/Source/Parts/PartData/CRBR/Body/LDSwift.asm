@@ -21,9 +21,10 @@ BuildTitle:
 PartDescription:
     String|
 "Little Dasher (Normal) 
-High Grounded ability, 
-low Defense, and low Down.
-One Horizontal Air Dash. 
+High speed on the ground, 
+but has low defense and is
+knocked down easily.
+Has a single fast air dash.
 Charge: Attacks slowly
 forwards with high damage."
 RoboBytes:
