@@ -30,7 +30,7 @@ RoboBytes:
 byte [2] |
 00, | #Illegal Toggle
 2 #Number of Bombs Fired
-half [1] 95 #Explosion Trigger Radius
+half [1] 105 #Explosion Trigger Radius
 #################
 ## Ground Shot ##
 #################
