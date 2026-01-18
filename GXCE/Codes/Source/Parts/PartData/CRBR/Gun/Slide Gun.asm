@@ -14,7 +14,7 @@ Slide Gun [Project Hive]
     .BA<-BuildTitle
 PartName:
     String|
-"Slide Gun"
+"Slide Gun ^`"
 BuildTitle:
     String|
 ""
