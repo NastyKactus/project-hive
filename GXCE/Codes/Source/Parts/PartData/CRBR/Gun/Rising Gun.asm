@@ -71,8 +71,8 @@ byte[2] |
 5, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-40, | #Damage
-800, | #Down
+100, | #Damage
+1500, | #Down
 50, | #Knockback Velocity
 15, | #Knockback Angle
 15, | #Hitstun
@@ -93,8 +93,8 @@ byte[2] |
 5, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-40, | #Damage
-800, | #Down
+60, | #Damage
+700, | #Down
 50, | #Knockback Velocity
 25, | #Knockback Angle
 15, | #Hitstun
@@ -104,13 +104,13 @@ half[9] |
 100 #On-Hit Gravity (Downed)
 #Third Phase
 half[2] |
-230, | #Phase Duration
+235, | #Phase Duration
 0 #Padding
 float[4] |
 0.0, | #Phase Speed
 0.0, | #Horizontal Homing
 0.0, | #Vertical Homing
-0.9 #Shot Size
+1.0 #Shot Size
 byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
@@ -176,22 +176,22 @@ byte[6] |
 1, | #Number of Shots
 2, | #Rounds per Shot
 1, | #Shot Spread (00 for Vertical, 01 for Horizontal)
-10, | #Delay Between Shots
-24 #Endlag
+0, | #Delay Between Shots
+22 #Endlag
 half 0 #Shot Randomization
 byte[2] |
 0, | #Spread Phase
 0 #Padding
 half[3] |
-1450, | #Initial Shot Angle
-2900, | #Angle Between Simultaneous Shots
+1400, | #Initial Shot Angle
+2800, | #Angle Between Simultaneous Shots
 0 #????
 #First Phase
 half[2] |
 17, | #Phase Duration
 0 #Padding
 float[4] |
-0.18, | #Phase Speed
+0.17, | #Phase Speed
 0.0, | #Horizontal Homing
 0.0, | #Vertical Homing
 0.57 #Shot Size
@@ -201,12 +201,12 @@ byte[2] |
 half[9] |
 10, | #Damage
 200, | #Down
-150, | #Knockback Velocity
-105, | #Knockback Angle
-21, | #Hitstun
+145, | #Knockback Velocity
+118, | #Knockback Angle
+22, | #Hitstun
 85, | #On-Hit Gravity
-150, | #Knockback Velocity (Downed)
-105, | #Knockback Angle (Downed)
+145, | #Knockback Velocity (Downed)
+118, | #Knockback Angle (Downed)
 85 #On-Hit Gravity (Downed)
 #Second Phase
 half[2] |
