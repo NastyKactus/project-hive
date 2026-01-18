@@ -22,9 +22,11 @@ PartDescription:
     String|
 "Ground: Fires a powerful
 short-range round that 
-instantly downs your opponent.
-End of round's lifespan has 
-high hitstun, and knocks 
+instantly downs a close
+opponent.
+Gradually becomes weaker,
+but the end has high 
+hitstun, and knocks the
 opponent towards you.
 Air: Same as Ground.
 Recommended Range:
