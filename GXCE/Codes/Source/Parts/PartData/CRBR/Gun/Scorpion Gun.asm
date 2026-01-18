@@ -14,7 +14,7 @@ Scorpion Gun [Kactus]
     .BA<-BuildTitle
 PartName:
     String|
-"Scorpion Gun"
+"Scorpion Gun ^`"
 BuildTitle:
     String|
 ""
@@ -29,7 +29,7 @@ Recommended Range:
 Long-Medium"
 RoboBytes:
 byte[56] |
-0,| #Illegal Toggle
+1,| #Illegal Toggle
 0, | #Slideshot Duration
 0, | #Related to Homing when rounds aren't facing the opponent
 0, 0, 0, 0, | #Nothing?

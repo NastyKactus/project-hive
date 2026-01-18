@@ -57,7 +57,6 @@
 .include "Source/Parts/PartData/CRBR/Body/OTPeregrine.asm"
 
 .include "Source/Parts/PartData/CRBR/Body/SFOilCan.asm"
-.include "Source/Parts/PartData/CRBR/Body/LDSwift2.asm"
 
 #Guns
 .include "Source/Parts/PartData/CRBR/Gun/Basic Gun.asm"

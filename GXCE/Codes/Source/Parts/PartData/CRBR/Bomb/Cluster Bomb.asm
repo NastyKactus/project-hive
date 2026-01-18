@@ -14,7 +14,7 @@ Cluster Bomb [Project Hive]
     .BA<-BuildTitle
 PartName:
     String|
-"Cluster Bomb^`"
+"Cluster Bomb ^`"
 BuildTitle:
     String|
 ""
@@ -25,7 +25,7 @@ of small blasts.
 Air: Same as Ground"
 RoboBytes:
 byte [2] |
-0, | #Illegal Toggle 
+2, | #Illegal Toggle 
 4 #Number of Bombs Fired
 half [1] 50 #Explosion Trigger Radius
 #################

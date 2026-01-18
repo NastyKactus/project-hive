@@ -24,7 +24,7 @@ PartDescription:
 High speed on the ground, 
 but has low defense and is
 knocked down easily.
-Has a single fast air dash. 
+Has three fast air dashes. 
 Charge: Teleports backwards
 then charges forwards."
 RoboBytes:
@@ -52,9 +52,9 @@ byte[22] |
 half[3] |
 0, 0, 0 #Reduced, Unmodified, and Boosted Continuous Jump Height
 byte[6] |
-1, | #Number of Air Dashes
+3, | #Number of Air Dashes
 0, | #SV Air Dash Toggle
-0, | #Air Dash Angle
+-2, | #Air Dash Angle
 5, 10, 15#Reduced, Unmodified, and Boosted Air Dash Length
 half [38] |
 150, 300, 450, | #Reduced, Unmodified, and Boosted Air Dash Speed

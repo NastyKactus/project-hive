@@ -14,7 +14,7 @@ Sky Wave Pod [Kactus]
     .BA<-BuildTitle
 PartName:
     String|
-"Sky Wave Pod"
+"Sky Wave Pod ^`"
 BuildTitle:
     String|
 ""
@@ -28,7 +28,7 @@ Blast: Creates a line of four
 blasts."
 RoboBytes:
 byte[4] |
-00, | #Illegal Toggle
+1, | #Illegal Toggle
 1, | #Pod Count (Max 3)
 1, | #Number of Pods fired at once(Max 3)
 0x00 #Empty Data?

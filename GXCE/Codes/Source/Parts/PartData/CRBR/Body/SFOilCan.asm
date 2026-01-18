@@ -13,7 +13,7 @@ Oil Can [Project Hive]
     .BA<-BuildTitle
 PartName:
     String|
-"Oil Can"
+"Oil Can ^`"
 BuildTitle:
     String|
 ""
@@ -32,7 +32,7 @@ byte[22] |
 105, | #Defense
 115, | #Knockback
 100, | #Hitstun
-0, | #Illegal Toggle
+1, | #Illegal Toggle
 150, | #Time Spent Down without Mashing
 57, | #Time Spent Down with Mashing
 30, | #Damage taken from guns when downed

@@ -14,10 +14,10 @@ Rising Gun [Kactus]
     .BA<-BuildTitle
 PartName:
     String|
-"Rising Gun (K)"
+"Rising Gun ^`"
 BuildTitle:
     String|
-" (K)"
+""
 PartDescription:
     String|
 "Ground: Fires a powerful round 
@@ -30,7 +30,7 @@ Recommended Range:
 Short"
 RoboBytes:
 byte[56] |
-0,| #Illegal Toggle
+1,| #Illegal Toggle
 15, | #Slideshot Duration
 0, | #Related to Homing when rounds aren't facing the opponent
 0, 0, 0, 0, | #Nothing?
@@ -113,7 +113,7 @@ float[4] |
 0.0, | #Phase Speed
 0.0, | #Horizontal Homing
 0.0, | #Vertical Homing
-1.0 #Shot Size
+1.1 #Shot Size
 byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
@@ -205,12 +205,12 @@ half[9] |
 10, | #Damage
 200, | #Down
 145, | #Knockback Velocity
-118, | #Knockback Angle
+111, | #Knockback Angle
 22, | #Hitstun
-85, | #On-Hit Gravity
+80, | #On-Hit Gravity
 145, | #Knockback Velocity (Downed)
-118, | #Knockback Angle (Downed)
-85 #On-Hit Gravity (Downed)
+111, | #Knockback Angle (Downed)
+80 #On-Hit Gravity (Downed)
 #Second Phase
 half[2] |
 0, | #Phase Duration
