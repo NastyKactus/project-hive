@@ -27,7 +27,8 @@ End of round's lifespan has
 high hitstun, and knocks 
 opponent towards you.
 Air: Same as Ground.
-Range: Short"
+Recommended Range:
+Short"
 RoboBytes:
 byte[56] |
 0, | #Illegal Toggle

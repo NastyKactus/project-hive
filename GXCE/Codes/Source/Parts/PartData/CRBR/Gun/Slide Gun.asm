@@ -22,8 +22,8 @@ PartDescription:
     String|
 "Ground: Long sliding time with
 three shots. High down.
-Air: Shoots an even horizontal spread 
-of 4 shots.
+Air: Shoots an even horizontal
+spread of 4 shots.
 Recommended Range: 
 Medium-Long"
 RoboBytes:
@@ -45,7 +45,7 @@ float 1.0 #Trail Width, Start of Ground Shot
 #Ground Shot#
 #############
 byte[6] |
-3, | #Startup
+5, | #Startup
 3, | #Number of Shots
 1, | #Rounds per Shot
 1, | #Shot Spread (00 for Vertical, 01 for Horizontal)
@@ -72,14 +72,14 @@ byte[2] |
 60, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-79, | #Damage
-2000, | #Down
-40, | #Knockback Velocity
-0, | #Knockback Angle
-20, | #Hitstun
+85, | #Damage
+1800, | #Down
+80, | #Knockback Velocity
+10, | #Knockback Angle
+25, | #Hitstun
 100, | #On-Hit Gravity
 100, | #Knockback Velocity (Downed)
-5, | #Knockback Angle (Downed)
+15, | #Knockback Angle (Downed)
 100 #On-Hit Gravity (Downed)
 #Second Phase
 half[2] |
@@ -192,16 +192,16 @@ half[2] |
 10, | #Phase Duration
 0 #Padding
 float[4] |
-0.306, | #Phase Speed
+0.26, | #Phase Speed
 0, | #Horizontal Homing
 0, | #Vertical Homing
-0.19 #Shot Size
+0.21 #Shot Size
 byte[2] |
 60, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-89, | #Damage
-900, | #Down
+65, | #Damage
+1500, | #Down
 170, | #Knockback Velocity
 0, | #Knockback Angle
 30, | #Hitstun
@@ -214,7 +214,7 @@ half[2] |
 122, | #Phase Duration
 0 #Padding
 float[4] |
-0.23, | #Phase Speed
+0.2, | #Phase Speed
 0.0, | #Horizontal Homing
 0.0, | #Vertical Homing
 0.23 #Shot Size
@@ -222,8 +222,8 @@ byte[2] |
 60, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-79, | #Damage
-900, | #Down
+75, | #Damage
+700, | #Down
 170, | #Knockback Velocity
 0, | #Knockback Angle
 30, | #Hitstun

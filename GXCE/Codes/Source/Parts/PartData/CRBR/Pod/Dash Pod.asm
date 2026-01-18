@@ -27,7 +27,7 @@ knocks the user in the
 direction fired."
 RoboBytes:
 byte[4] |
-0, | #Illegal Toggle
+1, | #Illegal Toggle
 1, | #Pod Count (Max 3)
 1, | #Number of Pods fired at once(Max 3)
 0x00 #Empty Data?

@@ -21,10 +21,13 @@ BuildTitle:
 PartDescription:
     String|
 "Ground: Fires a powerful round 
-that hovers above the opponent.
+that hovers above
+the opponent.
 Air: Fires a tight spread of two 
 weak shots that knock the 
-opponent upwards."
+opponent upwards.
+Recommended Range: 
+Short"
 RoboBytes:
 byte[56] |
 0,| #Illegal Toggle
