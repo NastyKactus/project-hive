@@ -1,5 +1,5 @@
 ######################################
-Vanessa [Project Hive]
+Rebecca [Project Hive]
 ######################################
 .alias PartType = 0x00
 .alias PartBase = 0x03
@@ -14,7 +14,7 @@ Vanessa [Project Hive]
     .BA<-BuildTitle
 PartName:
     String|
-"Vanessa"
+"Rebecca"
 BuildTitle:
     String|
 ""
