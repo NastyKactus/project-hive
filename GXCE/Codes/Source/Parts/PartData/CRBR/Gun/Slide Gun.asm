@@ -1,5 +1,5 @@
 ######################################
-Slide Gun [Project Hive]
+Slide Gun [Project Hive/TideHunter]
 ######################################
 .alias PartType = 0x01
 .alias PartBase = 0x2B
@@ -33,11 +33,11 @@ byte[56] |
 0, | #Related to Homing when rounds aren't facing the opponent
 0, 0, 0, 0, | #Nothing?
 1, | #Trail (0 for Invisible, 1 for Trail VFX)
-0, 175, 227, 255, | #Left Portion RGBA
+0, 175, 227, 230, | #Left Portion RGBA
 58, 21, 140, 255, | #Middle Portion RGBA
-0, 175, 227, 255, | #Right Portion RGBA
+0, 175, 227, 230, | #Right Portion RGBA
 255, 255, 255, 255, | #Unknown RGBA
-0, 0, 0, 60, | #Trail Duration
+0, 0, 0, 45, | #Trail Duration
 0, 0, 0, 1, | #????
 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 #????
 float 1.0 #Trail Width, Start of Ground Shot
@@ -65,11 +65,11 @@ half[2] |
 0 #Padding
 float[4] |
 0.42, | #Phase Speed
-0, | #Horizontal Homing
-0, | #Vertical Homing
+0.0, | #Horizontal Homing
+0.0, | #Vertical Homing
 0.2 #Shot Size
 byte[2] |
-60, | #Lingering Hitbox Duration
+45, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
 85, | #Damage
@@ -178,14 +178,14 @@ byte[6] |
 4, | #Rounds per Shot
 1, | #Shot Spread (00 for Vertical, 01 for Horizontal)
 0, | #Delay Between Shots
-30 #Endlag
+35 #Endlag
 half 0 #Shot Randomization
 byte[2] |
 0, | #Spread Phase
 0 #Padding
 half[3] |
-6000, | #Initial Shot Angle
-4000, | #Angle Between Simultaneous Shots
+7500, | #Initial Shot Angle
+5000, | #Angle Between Simultaneous Shots
 0 #????
 #First Phase
 half[2] |
@@ -193,15 +193,15 @@ half[2] |
 0 #Padding
 float[4] |
 0.26, | #Phase Speed
-0, | #Horizontal Homing
-0, | #Vertical Homing
+0.0, | #Horizontal Homing
+0.0, | #Vertical Homing
 0.21 #Shot Size
 byte[2] |
-60, | #Lingering Hitbox Duration
+45, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-65, | #Damage
-1500, | #Down
+45, | #Damage
+700, | #Down
 170, | #Knockback Velocity
 0, | #Knockback Angle
 30, | #Hitstun
@@ -211,7 +211,7 @@ half[9] |
 100 #On-Hit Gravity (Downed)
 #Second Phase
 half[2] |
-122, | #Phase Duration
+65, | #Phase Duration
 0 #Padding
 float[4] |
 0.2, | #Phase Speed
@@ -219,10 +219,10 @@ float[4] |
 0.0, | #Vertical Homing
 0.23 #Shot Size
 byte[2] |
-60, | #Lingering Hitbox Duration
+45, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-55, | #Damage
+50, | #Damage
 700, | #Down
 170, | #Knockback Velocity
 0, | #Knockback Angle
