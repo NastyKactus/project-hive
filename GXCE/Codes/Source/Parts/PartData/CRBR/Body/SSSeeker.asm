@@ -80,7 +80,7 @@ byte [2] |
 2, |    #Invulnerability
 0       #Invisibility
 half [16] |
-117, |  #Charge Damage
+115, |  #Charge Damage
 180, |  #Knockback Velocity
 75, |   #Knockback Angle
 10, |   #Homing
