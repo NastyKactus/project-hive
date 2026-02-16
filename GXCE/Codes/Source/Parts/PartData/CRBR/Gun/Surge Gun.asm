@@ -50,7 +50,7 @@ byte[6] |
 1, | #Rounds per Shot
 1, | #Shot Spread (00 for Vertical, 01 for Horizontal)
 1, | #Delay Between Shots
-16 #Endlag
+14 #Endlag
 half 0 #Shot Randomization
 byte[2] |
 0, | #Spread Phase
@@ -127,12 +127,12 @@ half[9] |
 25 #On-Hit Gravity (Downed)
 #Fourth Phase
 half[2] |
-30, | #Phase Duration
+33, | #Phase Duration
 0 #Padding
 float[4] |
 0.07, | #Phase Speed
-0.18, | #Horizontal Homing
-0.18, | #Vertical Homing
+0.13, | #Horizontal Homing
+0.13, | #Vertical Homing
 0.3 #Shot Size
 byte[2] |
 0, | #Lingering Hitbox Duration
@@ -178,7 +178,7 @@ byte[6] |
 1, | #Rounds per Shot
 1, | #Shot Spread (00 for Vertical, 01 for Horizontal)
 1, | #Delay Between Shots
-16 #Endlag
+14 #Endlag
 half 0 #Shot Randomization
 byte[2] |
 0, | #Spread Phase
@@ -256,12 +256,12 @@ half[9] |
 #Fourth Phase
 #Fourth Phase
 half[2] |
-30, | #Phase Duration
+33, | #Phase Duration
 0 #Padding
 float[4] |
 0.07, | #Phase Speed
-0.18, | #Horizontal Homing
-0.18, | #Vertical Homing
+0.13, | #Horizontal Homing
+0.13, | #Vertical Homing
 0.3 #Shot Size
 byte[2] |
 0, | #Lingering Hitbox Duration
