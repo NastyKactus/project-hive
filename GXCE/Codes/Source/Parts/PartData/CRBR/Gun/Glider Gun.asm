@@ -73,7 +73,7 @@ byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-50, | #Damage
+55, | #Damage
 800, | #Down
 140, | #Knockback Velocity
 20, | #Knockback Angle
@@ -95,7 +95,7 @@ byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-50, | #Damage
+55, | #Damage
 800, | #Down
 140, | #Knockback Velocity
 20, | #Knockback Angle
@@ -179,7 +179,7 @@ byte[6] |
 2, | #Rounds per Shot
 1, | #Shot Spread (00 for Vertical, 01 for Horizontal)
 10, | #Delay Between Shots
-55 #Endlag
+64 #Endlag
 half 0 #Shot Randomization
 byte[2] |
 0, | #Spread Phase
@@ -201,11 +201,11 @@ byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-40, | #Damage
+50, | #Damage
 400, | #Down
 120, | #Knockback Velocity
 20, | #Knockback Angle
-15, | #Hitstun
+20, | #Hitstun
 90, | #On-Hit Gravity
 120, | #Knockback Velocity (Downed)
 20, | #Knockback Angle (Downed)
@@ -223,11 +223,11 @@ byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-40, | #Damage
+50, | #Damage
 400, | #Down
 120, | #Knockback Velocity
 20, | #Knockback Angle
-15, | #Hitstun
+20, | #Hitstun
 90, | #On-Hit Gravity
 120, | #Knockback Velocity (Downed)
 20, | #Knockback Angle (Downed)
@@ -245,11 +245,11 @@ byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-54, | #Damage
+60, | #Damage
 400, | #Down
 120, | #Knockback Velocity
 20, | #Knockback Angle
-15, | #Hitstun
+20, | #Hitstun
 90, | #On-Hit Gravity
 120, | #Knockback Velocity (Downed)
 20, | #Knockback Angle (Downed)
