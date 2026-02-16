@@ -53,7 +53,7 @@ half[3] |
 byte[6] |
 6, | #Number of Air Dashes
 0, | #SV Air Dash Toggle
--10, | #Air Dash Angle
+-9, | #Air Dash Angle
 16, 23, 30    #Reduced, Unmodified, and Boosted Air Dash Length
 half [38] |
 55, 130, 160, | #Reduced, Unmodified, and Boosted Air Dash Speed
@@ -61,7 +61,7 @@ half [38] |
 28, 34, 40, | #Reduced, Unmodified, and Boosted Run Speed
 132, 220, 400, | #Reduced, Unmodified, and Boosted Ground Acceleration
 150, 300, 600, | #Reduced, Unmodified, and Boosted Ground Turning
-140, 290, 450, | #Reduced, Unmodified, and Boosted Jump Height
+140, 270, 430, | #Reduced, Unmodified, and Boosted Jump Height
 18, 30, 44, | #Reduced, Unmodified, and Boosted Jump Speed
 100, 115, 130, | #Reduced, Unmodified, and Boosted Lateral Air Speed
 120, 270, 420, | #Reduced, Unmodified, and Boosted Air Acceleration
