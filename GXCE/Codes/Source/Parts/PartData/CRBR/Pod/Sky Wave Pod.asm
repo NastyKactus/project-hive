@@ -71,8 +71,8 @@ half [3] |
 0x0000 #Empty Data?
 float [3] |
 0.715, | #eExplosion Size after Initial Expansion
-0.805, | #Final Explosion Size
-1.62 #Explosion Height
+0.8855, | #Final Explosion Size
+1.78 #Explosion Height
 half [10] |
 15, | #Damage
 300, | #Down
