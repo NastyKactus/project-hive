@@ -65,28 +65,28 @@ half [10] |
 half [4] |
 100, | #Left / Right Landing Displacment 
 75, | #Front / Back Landing Displacment 
-30, | #Vertical Arc Angle 
+50, | #Vertical Arc Angle 
 30 #Horizontal Arc Angle 
 
 ##### Second Ground Bomb #####
 half [4] |
 -100, | #Left / Right Landing Displacment 
 75, | #Front / Back Landing Displacment 
-30, | #Vertical Arc Angle 
+50, | #Vertical Arc Angle 
 -30 #Horizontal Arc Angle 
 
 ##### Third Ground Bomb #####
 half [4] |
 0, | #Left / Right Landing Displacment 
 0, | #Front / Back Landing Displacment 
-30, | #Vertical Arc Angle 
+50, | #Vertical Arc Angle 
 0 #Horizontal Arc Angle 
 
 ##### Fourth Ground Bomb #####
 half [4] |
 0, | #Left / Right Landing Displacment 
 125, | #Front / Back Landing Displacment 
-50, | #Vertical Arc Angle 
+70, | #Vertical Arc Angle 
 0 #Horizontal Arc Angle 
 #################
 ## Air Shot ##
@@ -125,28 +125,28 @@ half [10] |
 half [4] |
 100, | #Left / Right Landing Displacment 
 75, | #Front / Back Landing Displacment 
-30, | #Vertical Arc Angle 
+50, | #Vertical Arc Angle 
 30 #Horizontal Arc Angle 
 
 ##### Second Ground Bomb #####
 half [4] |
 -100, | #Left / Right Landing Displacment 
 75, | #Front / Back Landing Displacment 
-30, | #Vertical Arc Angle 
+50, | #Vertical Arc Angle 
 -30 #Horizontal Arc Angle 
 
 ##### Third Ground Bomb #####
 half [4] |
 0, | #Left / Right Landing Displacment 
 0, | #Front / Back Landing Displacment 
-30, | #Vertical Arc Angle 
+50, | #Vertical Arc Angle 
 0 #Horizontal Arc Angle 
 
 ##### Fourth Ground Bomb #####
 half [4] |
 0, | #Left / Right Landing Displacment 
 125, | #Front / Back Landing Displacment 
-50, | #Vertical Arc Angle 
+70, | #Vertical Arc Angle 
 0 #Horizontal Arc Angle 
 word [14] 0x00000000, 0xFFFFFFFF, 0xFFFFFFFF, 0xFFFFFFFF, 0xFFFFFFFF, 0x0000003C, 0x00000001, 0x00000000, 0x00000000, 0x00000000, 0x00000000, 0x00000000, 0x00000000, 0x3F800000 #Unknown Data
 ExtraBytes:
