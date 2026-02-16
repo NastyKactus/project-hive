@@ -77,7 +77,7 @@ half[9] |
 400, | #Down
 100, | #Knockback Velocity
 25, | #Knockback Angle
-20, | #Hitstun
+22, | #Hitstun
 100, | #On-Hit Gravity
 100, | #Knockback Velocity (Downed)
 25, | #Knockback Angle (Downed)
@@ -99,7 +99,7 @@ half[9] |
 350, | #Down
 100, | #Knockback Velocity
 25, | #Knockback Angle
-16, | #Hitstun
+18, | #Hitstun
 100, | #On-Hit Gravity
 100, | #Knockback Velocity (Downed)
 25, | #Knockback Angle (Downed)
@@ -190,10 +190,10 @@ half[3] |
 0 #????
 #First Phase
 half[2] |
-19, | #Phase Duration
+15, | #Phase Duration
 0 #Padding
 float[4] |
-0.16, | #Phase Speed
+0.2025, | #Phase Speed
 0.0, | #Horizontal Homing
 0.0, | #Vertical Homing
 0.2 #Shot Size
