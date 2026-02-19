@@ -191,6 +191,8 @@
 .include "Source/Parts/PartData/CRBR/Bomb/Heavy Bomb H.asm"
 .include "Source/Parts/PartData/CRBR/Bomb/Heavy Bomb K.asm"
 
+.include "Source/Parts/PartData/CRBR/Bomb/Warp Bomb.asm"
+
 #Pods
 .include "Source/Parts/PartData/CRBR/Pod/Standard Pod R.asm"
 .include "Source/Parts/PartData/CRBR/Pod/Standard Pod D.asm"
