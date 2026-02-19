@@ -74,7 +74,7 @@ byte[2] |
 5, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-120, | #Damage
+110, | #Damage
 1800, | #Down
 50, | #Knockback Velocity
 15, | #Knockback Angle
@@ -96,7 +96,7 @@ byte[2] |
 5, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-105, | #Damage
+110, | #Damage
 1000, | #Down
 50, | #Knockback Velocity
 25, | #Knockback Angle
@@ -118,7 +118,7 @@ byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-105, | #Damage
+125, | #Damage
 1000, | #Down
 100, | #Knockback Velocity
 -90, | #Knockback Angle
