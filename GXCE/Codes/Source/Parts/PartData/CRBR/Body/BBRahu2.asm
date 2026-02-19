@@ -1,5 +1,5 @@
 ######################################
-Rahu II [Project Hive]
+Lionmane [Project Hive]
 ######################################
 .alias PartType = 0x00
 .alias PartBase = 0x1F
@@ -14,7 +14,7 @@ Rahu II [Project Hive]
     .BA<-BuildTitle
 PartName:
     String|
-"Rahu II"
+"Lionmane"
 BuildTitle:
     String|
 ""

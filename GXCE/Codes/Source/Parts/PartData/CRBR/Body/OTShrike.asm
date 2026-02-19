@@ -1,5 +1,5 @@
 ######################################
-Codger [Kactus]
+Elder [Kactus]
 ######################################
 .alias PartType = 0x00
 .alias PartBase = 0x0B
@@ -14,7 +14,7 @@ Codger [Kactus]
     .BA<-BuildTitle
 PartName:
     String|
-"Codger ^`"
+"Elder ^`"
 BuildTitle:
     String|
 ""

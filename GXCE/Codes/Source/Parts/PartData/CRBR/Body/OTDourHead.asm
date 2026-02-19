@@ -1,5 +1,5 @@
 ######################################
-Fogey [Kactus]
+Fossil [Kactus]
 ######################################
 .alias PartType = 0x00
 .alias PartBase = 0x0B
@@ -14,7 +14,7 @@ Fogey [Kactus]
     .BA<-BuildTitle
 PartName:
     String|
-"Fogey ^`"
+"Fossil ^`"
 BuildTitle:
     String|
 ""

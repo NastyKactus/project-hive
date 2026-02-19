@@ -1,5 +1,5 @@
 ######################################
-Ruhiel [Project Hive]
+Wolfclaw [Project Hive]
 ######################################
 .alias PartType = 0x00
 .alias PartBase = 0x1C
@@ -14,7 +14,7 @@ Ruhiel [Project Hive]
     .BA<-BuildTitle
 PartName:
     String|
-"Ruhiel"
+"Wolfclaw"
 BuildTitle:
     String|
 ""
