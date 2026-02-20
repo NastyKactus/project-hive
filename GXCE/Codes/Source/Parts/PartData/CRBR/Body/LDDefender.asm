@@ -14,7 +14,7 @@ Scoville [Project Hive]
     .BA<-BuildTitle
 PartName:
     String|
-"Bit"
+"Scoville"
 BuildTitle:
     String|
 ""

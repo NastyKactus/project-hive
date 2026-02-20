@@ -14,7 +14,7 @@ Nybble [Project Hive]
     .BA<-BuildTitle
 PartName:
     String|
-"Pico"
+"Nybble"
 BuildTitle:
     String|
 ""
