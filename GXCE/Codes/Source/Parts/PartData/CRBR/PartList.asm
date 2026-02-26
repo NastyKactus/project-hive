@@ -192,6 +192,7 @@
 .include "Source/Parts/PartData/CRBR/Bomb/Heavy Bomb K.asm"
 
 .include "Source/Parts/PartData/CRBR/Bomb/Timer Bomb.asm"
+.include "Source/Parts/PartData/CRBR/Bomb/Cruise Bomb P.asm"
 
 #Pods
 .include "Source/Parts/PartData/CRBR/Pod/Standard Pod R.asm"
@@ -248,6 +249,8 @@
 .include "Source/Parts/PartData/CRBR/Pod/Beast Pod F.asm"
 .include "Source/Parts/PartData/CRBR/Pod/Sky Wave Pod.asm"
 .include "Source/Parts/PartData/CRBR/Pod/Dash Pod.asm"
+
+.include "Source/Parts/PartData/CRBR/Pod/Vulture Pod.asm"
 
 #Legs
 .include "Source/Parts/PartData/CRBR/Leg/Standard Legs.asm"
