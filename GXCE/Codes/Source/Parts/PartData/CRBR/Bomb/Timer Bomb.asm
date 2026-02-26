@@ -20,10 +20,10 @@ BuildTitle:
 ""
 PartDescription:
     String|
-"Fires an extremely fast bomb to
-the target area. It only detonates
-after a given time has passed, and
-not by proximity.
+"Fires an extremely fast bomb 
+to the target area. It only
+detonates after a given time
+has passed.
 Blast: Tall blast, knocks
 opponent sideways."
 RoboBytes:
@@ -39,7 +39,7 @@ byte [2] |
 75, #Reload
 half [3] |
 20000, | #Burrow Time
-2000, | #Projectile Speed
+800, | #Projectile Speed
 0x0000 #Empty Data?
 byte [2] |
 1, | #Number of Explosions
@@ -99,7 +99,7 @@ byte [2] |
 75 #Reload
 half [3] |
 20000, | #Burrow Time
-2000, | #Projectile Speed
+800, | #Projectile Speed
 0x0000 #Empty Data?
 byte [2] |
 1, | #Number of Explosions

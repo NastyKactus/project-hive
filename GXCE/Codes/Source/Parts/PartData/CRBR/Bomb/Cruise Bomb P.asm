@@ -22,8 +22,8 @@ PartDescription:
     String|
 "Ground: Fires a very slow 
 moving bomb in a high arc. It
-detonates whenever something
-gets near it.
+detonates whenever 
+something gets near it.
 Blast: High lingering, tall
 blast, knocks opponent
 upwards."
