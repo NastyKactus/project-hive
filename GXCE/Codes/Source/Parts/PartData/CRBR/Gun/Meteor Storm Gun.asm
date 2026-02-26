@@ -61,7 +61,7 @@ half[3] |
 0 #????
 #First Phase
 half[2] |
-14, | #Phase Duration
+13, | #Phase Duration
 0 #Padding
 float[4] |
 0.3, | #Phase Speed
@@ -83,7 +83,7 @@ half[9] |
 40 #On-Hit Gravity (Downed)
 #Second Phase
 half[2] |
-8, | #Phase Duration
+9, | #Phase Duration
 0 #Padding
 float[4] |
 0.3, | #Phase Speed
@@ -98,7 +98,7 @@ half[9] |
 250, | #Down
 60, | #Knockback Velocity
 60, | #Knockback Angle
-18, | #Hitstun
+8, | #Hitstun
 40, | #On-Hit Gravity
 60, | #Knockback Velocity (Downed)
 60, | #Knockback Angle (Downed)
@@ -120,7 +120,7 @@ half[9] |
 250, | #Down
 60, | #Knockback Velocity
 60, | #Knockback Angle
-18, | #Hitstun
+8, | #Hitstun
 40, | #On-Hit Gravity
 60, | #Knockback Velocity (Downed)
 60, | #Knockback Angle (Downed)
@@ -226,7 +226,7 @@ half[9] |
 250, | #Down
 60, | #Knockback Velocity
 60, | #Knockback Angle
-18, | #Hitstun
+8, | #Hitstun
 40, | #On-Hit Gravity
 60, | #Knockback Velocity (Downed)
 60, | #Knockback Angle (Downed)
@@ -248,7 +248,7 @@ half[9] |
 250, | #Down
 60, | #Knockback Velocity
 60, | #Knockback Angle
-18, | #Hitstun
+8, | #Hitstun
 40, | #On-Hit Gravity
 60, | #Knockback Velocity (Downed)
 60, | #Knockback Angle (Downed)
