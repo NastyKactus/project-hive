@@ -3,7 +3,7 @@ Slide Gun [Project Hive/TideHunter]
 ######################################
 .alias PartType = 0x01
 .alias PartBase = 0x2B
-.alias ModelID = 0x10
+.alias ModelID = 0x15
     .BA<-PartName
     .BA->$8023BCF0
     .BA<-PartDescription
