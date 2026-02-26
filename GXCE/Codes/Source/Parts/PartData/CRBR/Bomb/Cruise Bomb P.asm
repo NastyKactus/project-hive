@@ -29,16 +29,16 @@ RoboBytes:
 byte [2] |
 00, | #Illegal Toggle
 1 #Number of Bombs Fired
-half [1] 100 #Explosion Trigger Radius
+half [1] 225 #Explosion Trigger Radius
 #################
 ## Ground Shot ##
 #################
 byte [2] |
 100, | #Starting location of reticle (% of distance to opponent)
-75, #Reload
+70, #Reload
 half [3] |
 0, | #Burrow Time
-140, | #Projectile Speed
+30, | #Projectile Speed
 0x0000 #Empty Data?
 byte [2] |
 1, | #Number of Explosions
@@ -67,7 +67,7 @@ half [10] |
 half [4] |
 0, | #Left / Right Landing Displacment
 0, | #Front / Back Landing Displacment
-0, | #Vertical Arc Angle
+70, | #Vertical Arc Angle
 0 #Horizontal Arc Angle
 
 ##### Second Ground Bomb #####
@@ -95,10 +95,10 @@ half [4] |
 #################
 byte [2] |
 100, | #Starting location of reticle (% of distance to opponent)
-75 #Reload
+70 #Reload
 half [3] |
 0, | #Burrow Time
-150, | #Projectile Speed
+30, | #Projectile Speed
 0x0000 #Empty Data?
 byte [2] |
 1, | #Number of Explosions
@@ -127,7 +127,7 @@ half [10] |
 half [4] |
 0, | #Left / Right Landing Displacment
 0, | #Front / Back Landing Displacment
-0, | #Vertical Arc Angle
+60, | #Vertical Arc Angle
 0 #Horizontal Arc Angle
 
 ##### Second Air Bomb #####
