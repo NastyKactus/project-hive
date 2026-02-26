@@ -20,8 +20,10 @@ BuildTitle:
 ""
 PartDescription:
     String|
-"Ground: Flies straight slowly. 
-Air: Same as Ground.
+"Ground: Fires a very slow 
+moving bomb in a high arc. It
+detonates whenever something
+gets near it.
 Blast: High lingering, tall
 blast, knocks opponent
 upwards."
@@ -34,7 +36,7 @@ half [1] 225 #Explosion Trigger Radius
 ## Ground Shot ##
 #################
 byte [2] |
-100, | #Starting location of reticle (% of distance to opponent)
+115, | #Starting location of reticle (% of distance to opponent)
 70, #Reload
 half [3] |
 0, | #Burrow Time
@@ -67,7 +69,7 @@ half [10] |
 half [4] |
 0, | #Left / Right Landing Displacment
 0, | #Front / Back Landing Displacment
-70, | #Vertical Arc Angle
+85, | #Vertical Arc Angle
 0 #Horizontal Arc Angle
 
 ##### Second Ground Bomb #####
@@ -94,7 +96,7 @@ half [4] |
 ## Air Shot ##
 #################
 byte [2] |
-100, | #Starting location of reticle (% of distance to opponent)
+115, | #Starting location of reticle (% of distance to opponent)
 70 #Reload
 half [3] |
 0, | #Burrow Time
@@ -127,7 +129,7 @@ half [10] |
 half [4] |
 0, | #Left / Right Landing Displacment
 0, | #Front / Back Landing Displacment
-60, | #Vertical Arc Angle
+70, | #Vertical Arc Angle
 0 #Horizontal Arc Angle
 
 ##### Second Air Bomb #####

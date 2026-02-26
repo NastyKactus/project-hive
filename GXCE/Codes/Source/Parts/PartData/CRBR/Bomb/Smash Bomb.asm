@@ -42,7 +42,7 @@ half [3] |
 0x0000 #Empty Data?
 byte [2] |
 3, | #Number of Explosions
-2 #Delay between Explosions
+1 #Delay between Explosions
 half [3] |
 14, | #Explosion Expansion Radius
 35, | #Lingering Hitbox Duration
@@ -52,7 +52,7 @@ float [3] |
 1.6, | #Final Explosion Size
 0.5 #Explosion Height
 half [10] |
-75, | #Damage
+55, | #Damage
 600, | #Down
 180, | #Knockback Velocity
 40, | #Knockback Angle
