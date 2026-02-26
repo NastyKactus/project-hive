@@ -250,7 +250,7 @@
 .include "Source/Parts/PartData/CRBR/Pod/Sky Wave Pod.asm"
 .include "Source/Parts/PartData/CRBR/Pod/Dash Pod.asm"
 
-.include "Source/Parts/PartData/CRBR/Pod/Vulture Pod.asm"
+.include "Source/Parts/PartData/CRBR/Pod/Vulture Pod B.asm"
 
 #Legs
 .include "Source/Parts/PartData/CRBR/Leg/Standard Legs.asm"
