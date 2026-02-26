@@ -1,5 +1,5 @@
 ######################################
-Warp Bomb [Project Hive]
+Timer Bomb [Project Hive]
 ######################################
 .alias PartType = 0x02
 .alias PartBase = 0x01
@@ -14,16 +14,16 @@ Warp Bomb [Project Hive]
     .BA<-BuildTitle
 PartName:
     String|
-"Warp Bomb ^`"
+"Timer Bomb ^`"
 BuildTitle:
     String|
 ""
 PartDescription:
     String|
-"Fires a bomb that immediately
-appears at the target. It
-detonates after a set time, and
-never by proximity.
+"Fires an extremely fast bomb to
+the target area. It only detonates
+after a given time has passed, and
+not by proximity.
 Blast: Tall blast, knocks
 opponent sideways."
 RoboBytes:
@@ -39,7 +39,7 @@ byte [2] |
 75, #Reload
 half [3] |
 20000, | #Burrow Time
-5000, | #Projectile Speed
+2000, | #Projectile Speed
 0x0000 #Empty Data?
 byte [2] |
 1, | #Number of Explosions
@@ -99,7 +99,7 @@ byte [2] |
 75 #Reload
 half [3] |
 20000, | #Burrow Time
-5000, | #Projectile Speed
+2000, | #Projectile Speed
 0x0000 #Empty Data?
 byte [2] |
 1, | #Number of Explosions
