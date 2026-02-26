@@ -14,7 +14,7 @@ Cruise Bomb P [Project Hive]
     .BA<-BuildTitle
 PartName:
     String|
-"Cruise Bomb P"
+"Cruise Bomb P ^`"
 BuildTitle:
     String|
 ""
@@ -27,7 +27,7 @@ blast, knocks opponent
 upwards."
 RoboBytes:
 byte [2] |
-00, | #Illegal Toggle
+01, | #Illegal Toggle
 1 #Number of Bombs Fired
 half [1] 225 #Explosion Trigger Radius
 #################

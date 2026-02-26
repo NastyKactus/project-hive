@@ -14,7 +14,7 @@ Vulture Pod B [Project Hive]
     .BA<-BuildTitle
 PartName:
     String|
-"Vulture Pod B"
+"Vulture Pod B ^`"
 BuildTitle:
     String|
 ""
@@ -27,7 +27,7 @@ Blast: High lingering,
 knocks opponent sideways."
 RoboBytes:
 byte[4] |
-00, | #Illegal Toggle
+01, | #Illegal Toggle
 1, | #Pod Count (Max 3)
 1, | #Number of Pods fired at once(Max 3)
 0x00 #Empty Data?
