@@ -46,9 +46,9 @@ half [3] |
 18, | #Lingering Hitbox Duration
 0x0000 #Empty Data?
 float [3] |
-0.8, | #Explosion Size after Initial Expansion
-0.8, | #Final Explosion Size
-0.6 #Explosion Height
+0.96, | #Explosion Size after Initial Expansion
+0.96, | #Final Explosion Size
+0.72 #Explosion Height
 half [10] |
 30, | #Damage
 200, | #Down
@@ -106,9 +106,9 @@ half [3] |
 18, | #Lingering Hitbox Duration
 0x0000 #Empty Data?
 float [3] |
-0.8, | #Explosion Size after Initial Expansion
-0.8, | #Final Explosion Size
-0.6 #Explosion Height
+0.96, | #Explosion Size after Initial Expansion
+0.96, | #Final Explosion Size
+0.72 #Explosion Height
 half [10] |
 30, | #Damage
 200, | #Down
