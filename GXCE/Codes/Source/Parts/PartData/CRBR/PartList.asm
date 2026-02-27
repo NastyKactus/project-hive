@@ -251,6 +251,8 @@
 .include "Source/Parts/PartData/CRBR/Pod/Dash Pod.asm"
 
 .include "Source/Parts/PartData/CRBR/Pod/Vulture Pod B.asm"
+.include "Source/Parts/PartData/CRBR/Pod/Divide Pod.asm"
+.include "Source/Parts/PartData/CRBR/Pod/Orbiter Pod.asm"
 
 #Legs
 .include "Source/Parts/PartData/CRBR/Leg/Standard Legs.asm"

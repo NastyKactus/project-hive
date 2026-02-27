@@ -58,7 +58,7 @@ byte[2] |
 0 #Padding
 half[3] |
 0, | #Initial Shot Angle
-1890, | #Angle Between Simultaneous Shots
+2090, | #Angle Between Simultaneous Shots
 0 #????
 #First Phase
 half[2] |
@@ -75,11 +75,11 @@ byte[2] |
 half[9] |
 18, | #Damage
 400, | #Down
-130, | #Knockback Velocity
+145, | #Knockback Velocity
 90, | #Knockback Angle
 5, | #Hitstun
 100, | #On-Hit Gravity
-100, | #Knockback Velocity (Downed)
+110, | #Knockback Velocity (Downed)
 110, | #Knockback Angle (Downed)
 100 #On-Hit Gravity (Downed)
 #Second Phase
@@ -97,11 +97,11 @@ byte[2] |
 half[9] |
 18, | #Damage
 400, | #Down
-130, | #Knockback Velocity
+145, | #Knockback Velocity
 90, | #Knockback Angle
 5, | #Hitstun
 100, | #On-Hit Gravity
-100, | #Knockback Velocity (Downed)
+110, | #Knockback Velocity (Downed)
 110, | #Knockback Angle (Downed)
 100 #On-Hit Gravity (Downed)
 #Third Phase
@@ -119,11 +119,11 @@ byte[2] |
 half[9] |
 18, | #Damage
 400, | #Down
-130, | #Knockback Velocity
+145, | #Knockback Velocity
 90, | #Knockback Angle
 30, | #Hitstun
 100, | #On-Hit Gravity
-100, | #Knockback Velocity (Downed)
+110, | #Knockback Velocity (Downed)
 110, | #Knockback Angle (Downed)
 100 #On-Hit Gravity (Downed)
 #Fourth Phase
@@ -185,8 +185,8 @@ byte[2] |
 0, | #Spread Phase
 0 #Padding
 half[3] |
-1820, | #Initial Shot Angle
-1820, | #Angle Between Simultaneous Shots
+1940, | #Initial Shot Angle
+1940, | #Angle Between Simultaneous Shots
 0 #????
 #First Phase
 half[2] |

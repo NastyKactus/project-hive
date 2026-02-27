@@ -39,7 +39,7 @@ byte [2] |
 75, #Reload
 half [3] |
 20000, | #Burrow Time
-800, | #Projectile Speed
+600, | #Projectile Speed
 0x0000 #Empty Data?
 byte [2] |
 1, | #Number of Explosions
@@ -99,7 +99,7 @@ byte [2] |
 75 #Reload
 half [3] |
 20000, | #Burrow Time
-800, | #Projectile Speed
+600, | #Projectile Speed
 0x0000 #Empty Data?
 byte [2] |
 1, | #Number of Explosions
