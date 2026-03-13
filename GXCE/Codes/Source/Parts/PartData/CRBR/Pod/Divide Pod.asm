@@ -44,10 +44,10 @@ half [8] |
 byte[4] |
 1, | #Homing Toggle
 0, | #Roaming Phase Homing 
-15, | #Locked On Phase Homing 
+30, | #Locked On Phase Homing 
 0x00 #Empty Data? 
 half [13] |
-70, | #Roaming Phase Speed 
+80, | #Roaming Phase Speed 
 70, | #Locked On Phase Speed 
 10, | #Roaming Phase Height 
 10, | #Locked On Phase Height 
