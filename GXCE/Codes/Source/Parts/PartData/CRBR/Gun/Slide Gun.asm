@@ -40,7 +40,7 @@ byte[56] |
 0, 0, 0, 45, | #Trail Duration
 0, 0, 0, 1, | #????
 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 #????
-float 1.0 #Trail Width, Start of Ground Shot
+float 0.9 #Trail Width, Start of Ground Shot
 #############
 #Ground Shot#
 #############
@@ -195,7 +195,7 @@ float[4] |
 0.26, | #Phase Speed
 0.0, | #Horizontal Homing
 0.0, | #Vertical Homing
-0.21 #Shot Size
+0.19 #Shot Size
 byte[2] |
 45, | #Lingering Hitbox Duration
 0 #Padding
@@ -217,7 +217,7 @@ float[4] |
 0.2, | #Phase Speed
 0.0, | #Horizontal Homing
 0.0, | #Vertical Homing
-0.23 #Shot Size
+0.19 #Shot Size
 byte[2] |
 45, | #Lingering Hitbox Duration
 0 #Padding
