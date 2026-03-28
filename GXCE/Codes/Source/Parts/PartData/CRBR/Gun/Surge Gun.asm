@@ -145,7 +145,7 @@ half[9] |
 37, | #Hitstun
 25, | #On-Hit Gravity
 45, | #Knockback Velocity (Downed)
-65, | #Knockback Angle (Downed)
+75, | #Knockback Angle (Downed)
 25 #On-Hit Gravity (Downed)
 #Fifth Phase
 half[2] |
@@ -274,7 +274,7 @@ half[9] |
 37, | #Hitstun
 25, | #On-Hit Gravity
 45, | #Knockback Velocity (Downed)
-65, | #Knockback Angle (Downed)
+75, | #Knockback Angle (Downed)
 25 #On-Hit Gravity (Downed)
 #Fifth Phase
 half[2] |
