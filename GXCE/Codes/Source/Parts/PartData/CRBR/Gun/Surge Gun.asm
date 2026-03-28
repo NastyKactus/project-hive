@@ -141,7 +141,7 @@ half[9] |
 17, | #Damage
 500, | #Down
 45, | #Knockback Velocity
-65, | #Knockback Angle
+75, | #Knockback Angle
 37, | #Hitstun
 25, | #On-Hit Gravity
 45, | #Knockback Velocity (Downed)
@@ -270,7 +270,7 @@ half[9] |
 17, | #Damage
 500, | #Down
 45, | #Knockback Velocity
-65, | #Knockback Angle
+75, | #Knockback Angle
 37, | #Hitstun
 25, | #On-Hit Gravity
 45, | #Knockback Velocity (Downed)
