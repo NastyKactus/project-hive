@@ -122,7 +122,7 @@ half[9] |
 450, | #Down
 10, | #Knockback Velocity
 0, | #Knockback Angle
-10, | #Hitstun
+5, | #Hitstun
 25, | #On-Hit Gravity
 100, | #Knockback Velocity (Downed)
 35, | #Knockback Angle (Downed)
@@ -250,7 +250,7 @@ half[9] |
 450, | #Down
 10, | #Knockback Velocity
 0, | #Knockback Angle
-10, | #Hitstun
+5, | #Hitstun
 25, | #On-Hit Gravity
 100, | #Knockback Velocity (Downed)
 35, | #Knockback Angle (Downed)
