@@ -35,7 +35,7 @@ byte[22] |
 120, | #Knockback
 100, | #Hitstun
 0, | #Illegal Toggle
-120, | #Time Spent Down without Mashing
+140, | #Time Spent Down without Mashing
 57, | #Time Spent Down with Mashing
 30, | #Damage taken from guns when downed
 50, | #Damage taken from bombs when downed
