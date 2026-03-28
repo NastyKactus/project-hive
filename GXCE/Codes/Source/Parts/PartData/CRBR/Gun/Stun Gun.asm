@@ -47,8 +47,8 @@ byte[6] |
 2, | #Number of Shots
 1, | #Rounds per Shot
 1, | #Shot Spread (00 for Vertical, 01 for Horizontal)
-4, | #Delay Between Shots
-3 #Endlag
+3, | #Delay Between Shots
+4 #Endlag
 half 0 #Shot Randomization
 byte[2] |
 0, | #Spread Phase
@@ -175,8 +175,8 @@ byte[6] |
 2, | #Number of Shots
 1, | #Rounds per Shot
 1, | #Shot Spread (00 for Vertical, 01 for Horizontal)
-4, | #Delay Between Shots
-3 #Endlag
+3, | #Delay Between Shots
+4 #Endlag
 half 0 #Shot Randomization
 byte[2] |
 0, | #Spread Phase
