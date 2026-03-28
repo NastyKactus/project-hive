@@ -216,8 +216,8 @@ half[2] |
 0 #Padding
 float[4] |
 0.1592, | #Phase Speed
-0.009, | #Horizontal Homing
-0.009, | #Vertical Homing
+0.007, | #Horizontal Homing
+0.007, | #Vertical Homing
 0.27 #Shot Size
 byte[2] |
 20, | #Lingering Hitbox Duration

@@ -187,10 +187,10 @@ half[3] |
 0 #????
 #First Phase
 half[2] |
-3, | #Phase Duration
+5, | #Phase Duration
 0 #Padding
 float[4] |
-0.45, | #Phase Speed
+0.355, | #Phase Speed
 0.25, | #Horizontal Homing
 0.25, | #Vertical Homing
 0.3 #Shot Size
