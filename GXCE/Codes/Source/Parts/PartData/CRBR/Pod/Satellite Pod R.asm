@@ -1,5 +1,5 @@
 ######################################
-Satellite Pod [Project Hive]
+Satellite Pod R [Project Hive]
 ######################################
 .alias PartType = 0x03
 .alias PartBase = 0x14
@@ -14,7 +14,7 @@ Satellite Pod [Project Hive]
     .BA<-BuildTitle
 PartName:
     String|
-"Satellite Pod"
+"Satellite Pod R"
 BuildTitle:
     String|
 ""

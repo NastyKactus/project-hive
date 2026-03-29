@@ -1,5 +1,5 @@
 ######################################
-Timer Bomb [Project Hive]
+Timer Bomb F [Project Hive]
 ######################################
 .alias PartType = 0x02
 .alias PartBase = 0x01
@@ -14,7 +14,7 @@ Timer Bomb [Project Hive]
     .BA<-BuildTitle
 PartName:
     String|
-"Timer Bomb ^`"
+"Timer Bomb F^`"
 BuildTitle:
     String|
 ""
