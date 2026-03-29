@@ -1,8 +1,8 @@
 ######################################
-Divide Pod [Custom Robo Arena]
+Divide Pod F [Custom Robo Arena]
 ######################################
 .alias PartType = 0x03
-.alias PartBase = 0x00
+.alias PartBase = 0x1C
 .alias ModelID = 0x12
     .BA<-PartName
     .BA->$8023BCF0
@@ -14,7 +14,7 @@ Divide Pod [Custom Robo Arena]
     .BA<-BuildTitle
 PartName:
     String|
-"Divide Pod ^` (CRA)"
+"Divide Pod F^` (CRA)"
 BuildTitle:
     String|
 " (CRA)"
@@ -44,10 +44,10 @@ half [8] |
 byte[4] |
 1, | #Homing Toggle
 0, | #Roaming Phase Homing 
-30, | #Locked On Phase Homing 
+35, | #Locked On Phase Homing 
 0x00 #Empty Data? 
 half [13] |
-80, | #Roaming Phase Speed 
+85, | #Roaming Phase Speed 
 70, | #Locked On Phase Speed 
 10, | #Roaming Phase Height 
 10, | #Locked On Phase Height 
@@ -56,8 +56,8 @@ half [13] |
 0, | #Duration of pause for switching between roaming and locked on. 
 0, | #Initial Ground Launch Angle 
 0, | #Initial Air Launch Angle 
-250, | #Initial Ground Launch Speed 
-250, | #Initial Air Launch Speed 
+220, | #Initial Ground Launch Speed 
+220, | #Initial Air Launch Speed 
 15, | #Initial Ground Launch Duration 
 15 #Initial Air Launch Duration 
 byte[4] |
@@ -70,17 +70,17 @@ half [3] |
 19, | #Explosion Lingering Hitbox Duration 
 0x0000 #Empty Data? 
 float [3] |
-0.5, | #eExplosion Size after Initial Expansion 
-0.57, | #Final Explosion Size 
-4.68 #Explosion Height 
+0.75, | #eExplosion Size after Initial Expansion
+0.85, | #Final Explosion Size
+3.12 #Explosion Height
 half [10] |
-30, | #Damage 
+35, | #Damage 
 300, | #Down 
-50, | #Knockback Velocity 
+150, | #Knockback Velocity 
 20, | #Knockback Angle 
-15, | #Hitstun 
+20, | #Hitstun 
 100, | #On-Hit Gravity 
-50, | #Knockback Velocity (Downed) 
+150, | #Knockback Velocity (Downed) 
 20, | #Knockback Anlge (Downed) 
 100, | #On-Hit Gravity (Downed) 
 0x0000 #Empty Data 
