@@ -234,7 +234,7 @@ half[9] |
 90 #On-Hit Gravity (Downed)
 #Third Phase
 half[2] |
-134, | #Phase Duration
+136, | #Phase Duration
 0 #Padding
 float[4] |
 0.22, | #Phase Speed
