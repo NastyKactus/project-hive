@@ -22,7 +22,10 @@ PartDescription:
     String|
 "Ground: Fires a cluster
 of small blasts.
-Air: Same as Ground"
+Air: Same as Ground.
+Blast: Small blasts that
+disappear quickly, knocks
+opponent sideways."
 RoboBytes:
 byte [2] |
 2, | #Illegal Toggle 
