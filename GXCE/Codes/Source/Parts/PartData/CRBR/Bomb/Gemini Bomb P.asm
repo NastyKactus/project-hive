@@ -38,10 +38,10 @@ half [1] 40 #Explosion Trigger Radius
 #################
 byte [2] |
 100, | #Starting location of reticle (% of distance to opponent)
-70, #Reload
+90, #Reload
 half [3] |
 0, | #Burrow Time
-160, | #Projectile Speed
+165, | #Projectile Speed
 0x0000 #Empty Data?
 byte [2] |
 1, | #Number of Explosions

@@ -32,7 +32,7 @@ byte [16] |
 100, | #Jump Speed 
 100, | #Lateral Air Speed 
 100, | #Air Accel 
-200, | #Landing Lag 
+100, | #Landing Lag 
 100, | #Gravity 
 100, | #Dash Startup 
 200, | #Dash Landing Lag 
