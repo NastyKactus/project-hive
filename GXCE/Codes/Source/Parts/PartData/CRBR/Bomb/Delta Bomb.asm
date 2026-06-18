@@ -35,7 +35,7 @@ half [1] 40 #Explosion Trigger Radius
 #################
 byte [2] |
 73, | #Starting location of reticle (% of distance to opponent)
-90, #Reload
+110, #Reload
 half [3] |
 0, | #Burrow Time
 240, | #Projectile Speed
@@ -54,11 +54,11 @@ float [3] |
 half [10] |
 33, | #Damage
 240, | #Down
-150, | #Knockback Velocity
+125, | #Knockback Velocity
 20, | #Knockback Angle
 30, | #Histun
 100, | #On Hit Gravity
-150, | #Knockback Velocity (Downed)
+125, | #Knockback Velocity (Downed)
 20, | #Knockback Angle (Downed)
 100, | #On Hit Gravity (Downed)
 0x0000 #Empty Data?
@@ -95,7 +95,7 @@ half [4] |
 #################
 byte [2] |
 73, | #Starting location of reticle (% of distance to opponent)
-90 #Reload
+110 #Reload
 half [3] |
 0, | #Burrow Time
 240, | #Projectile Speed
@@ -114,11 +114,11 @@ float [3] |
 half [10] |
 33, | #Damage
 240, | #Down
-150, | #Knockback Velocity
+125, | #Knockback Velocity
 20, | #Knockback Angle
 30, | #Histun
 100, | #On Hit Gravity
-150, | #Knockback Velocity (Downed)
+125, | #Knockback Velocity (Downed)
 20, | #Knockback Angle (Downed)
 100, | #On Hit Gravity (Downed)
 0x0000 #Empty Data?
