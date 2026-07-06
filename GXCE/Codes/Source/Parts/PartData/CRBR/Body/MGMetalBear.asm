@@ -44,7 +44,7 @@ byte[22] |
 100, | #Bomb Damage
 100, | #Pod Damage
 100, | #Gun Endlag
-2, 5, 8, | #Reduced, Unmodified, and Boosted Air Dash Startup
+4, 6, 8, | #Reduced, Unmodified, and Boosted Air Dash Startup
 3, 5, 7, | #Reduced, Unmodified, and Boosted Dash Landing Lag
 0, | #Air Dash Type(00 = Normal Air Dash, 01 = Continuous Jump, 02 = LS)
 0 #Number of Continuous Jumps
