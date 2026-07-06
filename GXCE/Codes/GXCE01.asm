@@ -389,21 +389,21 @@ restore:
   lbzx r5, r20, r3  #Hook Point
 }
 
-.include Source/Extras/ZAltStages.asm
-.include Source/Stages/StageDisablers.asm
-.include Source/Parts/PartExpansion.asm
+.include /../Source/Extras/ZAltStages.asm
+.include /../Source/Stages/StageDisablers.asm
+.include /../Source/Parts/PartExpansion.asm
 
-.include Source/Parts/PartData/CRBR/PartList.asm
-.include Source/Parts/PartData/Custom/PartList.asm
-#.include Source/Parts/PartData/TE4/PartList.asm
+.include /../Source/Parts/PartData/CRBR/PartList.asm
+.include /../Source/Parts/PartData/Custom/PartList.asm
+#.include /../Source/Parts/PartData/TE4/PartList.asm
 
-.include Source/Parts/PartExpansionCloser.asm
+.include /../Source/Parts/PartExpansionCloser.asm
 
 # Include our Gecko codes
-.include GeckoCodes/GeckoCodes.asm
+.include /../GeckoCodes/GeckoCodes.asm
 
 # Include our AR Codes
-.include ARCodes/ARCodes.asm
+.include /../ARCodes/ARCodes.asm
 
 #V2. This code checks if the memory has been expanded via Riivolution. If it has, it returns the codeset handler to Dolphin's codeset handler.
 #################################

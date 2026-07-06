@@ -1686,13 +1686,13 @@ Part Expansion V2 [DesiacX]
 .alias PodPartLoc = BombPartLoc + 4
 .alias LegPartLoc = PodPartLoc + 4
 
-#Target and Source Register are generally the same unless something is being loaded to r0.
-.macro LoadHalf(<SourceRegister>, <TargetRegister>, <TargetPart>)
+#Target and /../Source Register are generally the same unless something is being loaded to r0.
+.macro LoadHalf(</../SourceRegister>, <TargetRegister>, <TargetPart>)
 {
-    lis <SourceRegister>, PartLocLow
-    ori <SourceRegister>, <SourceRegister>,  <TargetPart>
-    lwz <SourceRegister>, 0 (<SourceRegister>)
-    lhz <TargetRegister>, 0 (<SourceRegister>) 
+    lis </../SourceRegister>, PartLocLow
+    ori </../SourceRegister>, </../SourceRegister>,  <TargetPart>
+    lwz </../SourceRegister>, 0 (</../SourceRegister>)
+    lhz <TargetRegister>, 0 (</../SourceRegister>) 
 }
 
 .macro SetPartLoc(<Register>, <TargetPart>)
