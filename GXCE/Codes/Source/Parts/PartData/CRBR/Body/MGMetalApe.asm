@@ -63,7 +63,7 @@ half [38] |
 100, 200, 400, | #Reduced, Unmodified, and Boosted Ground Turning
 95, 190, 285, | #Reduced, Unmodified, and Boosted Jump Height
 2, 5, 8, | #Reduced, Unmodified, and Boosted Jump Speed
-75, 125, 250, | #Reduced, Unmodified, and Boosted Lateral Air Speed
+75, 125, 200, | #Reduced, Unmodified, and Boosted Lateral Air Speed
 50, 100, 200, | #Reduced, Unmodified, and Boosted Air Acceleration
 12, 20, 28, | #Reduced, Unmodified, and Boosted Landing Lag
 75, 150, 225, | #Reduced, Unmodified, and Boosted Gravity
