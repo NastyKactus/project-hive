@@ -56,7 +56,7 @@ byte[6] |
 0, | #Air Dash Angle
 10, 15, 20#Reduced, Unmodified, and Boosted Air Dash Length
 half [38] |
-230, 300, 370, | #Reduced, Unmodified, and Boosted Air Dash Speed
+190, 280, 370, | #Reduced, Unmodified, and Boosted Air Dash Speed
 0, 0, 0, | #Reduced, Unmodified, and Boosted LS Dash Turning
 50, 65, 85, | #Reduced, Unmodified, and Boosted Run Speed
 120, 200, 400, | #Reduced, Unmodified, and Boosted Ground Acceleration
