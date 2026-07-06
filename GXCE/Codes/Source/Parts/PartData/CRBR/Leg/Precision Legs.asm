@@ -27,12 +27,12 @@ RoboBytes:
 byte [16] |
 0, | #Illegal Toggle 
 100, | #Ground Speed
-150, | #Ground Accel 
+200, | #Ground Accel 
 200, | #Ground Turning
 100, | #Jump Height
 100, | #Jump Speed 
 100, | #Lateral Air Speed 
-150, | #Air Accel 
+67, | #Air Accel 
 100, | #Landing Lag 
 100, | #Gravity 
 100, | #Dash Startup 

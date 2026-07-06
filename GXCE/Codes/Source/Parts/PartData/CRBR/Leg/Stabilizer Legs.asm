@@ -30,14 +30,14 @@ byte [16] |
 0, | #Illegal Toggle 
 100, | #Ground Speed
 200, | #Ground Accel 
-200, | #Ground Turning
+167, | #Ground Turning
 100, | #Jump Height
 100, | #Jump Speed 
 100, | #Lateral Air Speed 
 100, | #Air Accel 
 100, | #Landing Lag 
 100, | #Gravity 
-50, | #Dash Startup 
+1, | #Dash Startup 
 100, | #Dash Landing Lag 
 100, | #Continuous Jump Height 
 100, | #Dash Duration 
