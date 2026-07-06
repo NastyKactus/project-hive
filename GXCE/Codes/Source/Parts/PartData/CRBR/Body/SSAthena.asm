@@ -60,14 +60,14 @@ byte[6] |
 half [38] |
 120, 170, 220, | #Reduced, Unmodified, and Boosted Air Dash Speed
 0, 0, 0, | #Reduced, Unmodified, and Boosted LS Dash Turning
-60, 70, 80, | #Reduced, Unmodified, and Boosted Run Speed
+50, 65, 85, | #Reduced, Unmodified, and Boosted Run Speed
 80, 160, 320, | #Reduced, Unmodified, and Boosted Ground Acceleration
 100, 200, 400, | #Reduced, Unmodified, and Boosted Ground Turning
-170, 320, 420, | #Reduced, Unmodified, and Boosted Jump Height
-5, 10, 15, | #Reduced, Unmodified, and Boosted Jump Speed
-70, 80, 100, | #Reduced, Unmodified, and Boosted Lateral Air Speed
-2000, 3000, 5000, | #Reduced, Unmodified, and Boosted Air Acceleration
-6, 12, 18, | #Reduced, Unmodified, and Boosted Landing Lag
+200, 310, 420, | #Reduced, Unmodified, and Boosted Jump Height
+6, 10, 14, | #Reduced, Unmodified, and Boosted Jump Speed
+70, 85, 100, | #Reduced, Unmodified, and Boosted Lateral Air Speed
+500, 700, 900, | #Reduced, Unmodified, and Boosted Air Acceleration
+7, 12, 17, | #Reduced, Unmodified, and Boosted Landing Lag
 70, 120, 170, | #Reduced, Unmodified, and Boosted Gravity
 35, | #Collision Box Size Related
 50, | #Collision Box Size Related
