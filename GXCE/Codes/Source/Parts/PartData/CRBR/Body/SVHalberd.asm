@@ -45,7 +45,7 @@ byte[22] |
 100, | #Pod Damage
 100, | #Gun Endlag
 2, 4, 6, | #Reduced, Unmodified, and Boosted Air Dash Startup
-5, 12, 19, | #Reduced, Unmodified, and Boosted Dash Landing Lag
+6, 12, 18, | #Reduced, Unmodified, and Boosted Dash Landing Lag
 0, | #Air Dash Type(00 = Normal Air Dash, 01 = Continuous Jump, 02 = LS)
 0 #Number of Continuous Jumps
 half[3] |
@@ -58,12 +58,12 @@ byte[6] |
 half [38] |
 150, 250, 350, | #Reduced, Unmodified, and Boosted Air Dash Speed
 0, 0, 0, | #Reduced, Unmodified, and Boosted LS Dash Turning
-60, 80, 95, | #Reduced, Unmodified, and Boosted Run Speed
-90, 150, 240, | #Reduced, Unmodified, and Boosted Ground Acceleration
-80, 160, 320, | #Reduced, Unmodified, and Boosted Ground Turning
+70, 85, 105, | #Reduced, Unmodified, and Boosted Run Speed
+120, 220, 440, | #Reduced, Unmodified, and Boosted Ground Acceleration
+70, 140, 280, | #Reduced, Unmodified, and Boosted Ground Turning
 70, 140, 210, | #Reduced, Unmodified, and Boosted Jump Height
-4, 8, 16, | #Reduced, Unmodified, and Boosted Jump Speed
-100, 120, 150, | #Reduced, Unmodified, and Boosted Lateral Air Speed
+5, 8, 11, | #Reduced, Unmodified, and Boosted Jump Speed
+100, 125, 150, | #Reduced, Unmodified, and Boosted Lateral Air Speed
 100, 200, 400, | #Reduced, Unmodified, and Boosted Air Acceleration
 10, 15, 20, | #Reduced, Unmodified, and Boosted Landing Lag
 40, 80, 120, | #Reduced, Unmodified, and Boosted Gravity
