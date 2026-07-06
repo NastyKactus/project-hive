@@ -66,7 +66,7 @@ half [38] |
 2, 4, 6, | #Reduced, Unmodified, and Boosted Jump Speed
 95, 105, 115, | #Reduced, Unmodified, and Boosted Lateral Air Speed
 75, 150, 300, | #Reduced, Unmodified, and Boosted Air Acceleration
-6, 10, 14, | #Reduced, Unmodified, and Boosted Landing Lag
+7, 11, 15, | #Reduced, Unmodified, and Boosted Landing Lag
 75, 150, 225, | #Reduced, Unmodified, and Boosted Gravity
 35, | #Collision Box Size Related
 72, | #Collision Box Size Related
