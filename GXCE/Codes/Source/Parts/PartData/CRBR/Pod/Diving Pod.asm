@@ -48,11 +48,11 @@ byte[4] |
 0x00 #Empty Data?
 half [13] |
 85, | #Roaming Phase Speed
-75, | #Locked On Phase Speed
+70, | #Locked On Phase Speed
 140, | #Roaming Phase Height
 10, | #Locked On Phase Height
 90, | #Angle for conen of vision for activating lock on phase
-300, | #Lock On Range
+280, | #Lock On Range
 5, | #Duration of pause for switching between roaming and locked on.
 60, | #Initial Ground Launch Angle
 5, | #Initial Air Launch Angle
@@ -78,7 +78,7 @@ half [10] |
 300, | #Down
 100, | #Knockback Velocity
 50, | #Knockback Angle
-20, | #Hitstun
+15, | #Hitstun
 100, | #On-Hit Gravity
 100, | #Knockback Velocity (Downed)
 50, | #Knockback Anlge (Downed)

@@ -48,7 +48,7 @@ byte[4] |
 0x00 #Empty Data?
 half [13] |
 15, | #Roaming Phase Speed
-160, | #Locked On Phase Speed
+120, | #Locked On Phase Speed
 190, | #Roaming Phase Height
 15, | #Locked On Phase Height
 90, | #Angle for conen of vision for activating lock on phase
@@ -56,10 +56,10 @@ half [13] |
 0, | #Duration of pause for switching between roaming and locked on.
 60, | #Initial Ground Launch Angle
 5, | #Initial Air Launch Angle
-100, | #Initial Ground Launch Speed
+60, | #Initial Ground Launch Speed
 50, | #Initial Air Launch Speed
-10, | #Initial Ground Launch Duration
-10 #Initial Air Launch Duration
+30, | #Initial Ground Launch Duration
+30 #Initial Air Launch Duration
 byte[4] |
 1, | #Bounce Off Wall Toggle (0 = Slide along wall, 1 = Bounce off wall)
 100, | #Pod Size

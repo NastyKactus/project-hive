@@ -44,8 +44,8 @@ half [8] |
 0x0000 #Empty Data?
 byte[4] |
 1, | #Homing Toggle
-20, | #Roaming Phase Homing
-20, | #Locked On Phase Homing
+15, | #Roaming Phase Homing
+15, | #Locked On Phase Homing
 0x00 #Empty Data?
 half [13] |
 80, | #Roaming Phase Speed
@@ -79,7 +79,7 @@ half [10] |
 300, | #Down
 100, | #Knockback Velocity
 50, | #Knockback Angle
-20, | #Hitstun
+15, | #Hitstun
 100, | #On-Hit Gravity
 100, | #Knockback Velocity (Downed)
 50, | #Knockback Anlge (Downed)

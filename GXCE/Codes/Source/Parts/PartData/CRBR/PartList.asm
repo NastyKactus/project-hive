@@ -208,49 +208,48 @@
 .include "/../Source/Parts/PartData/CRBR/Pod/Cockroach Pod H.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Dolphin Pod R.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Dolphin Pod G.asm"
-.include "/../Source/Parts/PartData/CRBR/Pod/Dolphin Pod X.asm"
-
 .include "/../Source/Parts/PartData/CRBR/Pod/Jumping Pod B.asm"
+
 .include "/../Source/Parts/PartData/CRBR/Pod/Jumping Pod G.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Caboose Pod C.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Caboose Pod T.asm"
-
 .include "/../Source/Parts/PartData/CRBR/Pod/Caboose Pod X.asm"
+
 .include "/../Source/Parts/PartData/CRBR/Pod/Wave Pod.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Double Wave Pod.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Wall Pod.asm"
-
 .include "/../Source/Parts/PartData/CRBR/Pod/Umbrella Pod.asm"
+
 .include "/../Source/Parts/PartData/CRBR/Pod/Trio Pod F.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Trio Pod H.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Titan Pod.asm"
-
 .include "/../Source/Parts/PartData/CRBR/Pod/Throwing Pod D.asm"
+
 .include "/../Source/Parts/PartData/CRBR/Pod/Throwing Pod P.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Reflection Pod.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Float Pod F.asm"
-
 .include "/../Source/Parts/PartData/CRBR/Pod/Feint Pod F.asm"
+
 .include "/../Source/Parts/PartData/CRBR/Pod/Feint Pod G.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Seeker Pod R.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Seeker Pod F.asm"
-
 .include "/../Source/Parts/PartData/CRBR/Pod/Seeker Pod G.asm"
+
 .include "/../Source/Parts/PartData/CRBR/Pod/Diving Pod.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Spider Pod R.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Spider Pod H.asm"
-
 .include "/../Source/Parts/PartData/CRBR/Pod/Spider Pod G.asm"
+
 .include "/../Source/Parts/PartData/CRBR/Pod/Sky Freeze Pod.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Ground Freeze Pod.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Satellite Pod R.asm"
-
 .include "/../Source/Parts/PartData/CRBR/Pod/Satellite Pod H.asm"
+
 .include "/../Source/Parts/PartData/CRBR/Pod/Beast Pod F.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Sky Wave Pod.asm"
 .include "/../Source/Parts/PartData/CRBR/Pod/Dash Pod.asm"
-
 .include "/../Source/Parts/PartData/CRBR/Pod/Vulture Pod B.asm"
+
 .include "/../Source/Parts/PartData/CRBR/Pod/Divide Pod F.asm"
 
 #Legs
