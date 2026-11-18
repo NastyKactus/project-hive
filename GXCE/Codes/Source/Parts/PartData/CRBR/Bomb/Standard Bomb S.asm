@@ -33,7 +33,7 @@ half [1] 69 #Explosion Trigger Radius
 ## Ground Shot ##
 #################
 byte [2] |
-100, | #Starting location of reticle (% of distance to opponent)
+90, | #Starting location of reticle (% of distance to opponent)
 90, #Reload
 half [3] |
 0, | #Burrow Time
@@ -48,8 +48,8 @@ half [3] |
 0x0000 #Empty Data?
 float [3] |
 0.8, | #Explosion Size after Initial Expansion
-1.12, | #Final Explosion Size
-0.76 #Explosion Height
+1.08, | #Final Explosion Size
+0.64 #Explosion Height
 half [10] |
 38, | #Damage
 300, | #Down
@@ -108,8 +108,8 @@ half [3] |
 0x0000 #Empty Data?
 float [3] |
 0.75, | #Explosion Size after Initial Expansion
-0.9, | #Final Explosion Size
-0.76 #Explosion Height
+0.86, | #Final Explosion Size
+0.64 #Explosion Height
 half [10] |
 33, | #Damage
 225, | #Down

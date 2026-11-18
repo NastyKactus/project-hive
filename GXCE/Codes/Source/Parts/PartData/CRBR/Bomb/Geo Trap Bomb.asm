@@ -29,7 +29,7 @@ RoboBytes:
 byte [2] |
 00, | #Illegal Toggle
 1 #Number of Bombs Fired
-half [1] 85 #Explosion Trigger Radius
+half [1] 60 #Explosion Trigger Radius
 #################
 ## Ground Shot ##
 #################
@@ -38,7 +38,7 @@ byte [2] |
 85, #Reload
 half [3] |
 0, | #Burrow Time
-240, | #Projectile Speed
+225, | #Projectile Speed
 0x0000 #Empty Data?
 byte [2] |
 1, | #Number of Explosions
@@ -48,7 +48,7 @@ half [3] |
 30, | #Lingering Hitbox Duration
 0x0000 #Empty Data?
 float [3] |
-1.0, | #Explosion Size after Initial Expansion
+0.9, | #Explosion Size after Initial Expansion
 1.8, | #Final Explosion Size
 0.65 #Explosion Height
 half [10] |
@@ -98,7 +98,7 @@ byte [2] |
 85 #Reload
 half [3] |
 0, | #Burrow Time
-240, | #Projectile Speed
+215, | #Projectile Speed
 0x0000 #Empty Data?
 byte [2] |
 1, | #Number of Explosions
@@ -108,7 +108,7 @@ half [3] |
 30, | #Lingering Hitbox Duration
 0x0000 #Empty Data?
 float [3] |
-1.0, | #Explosion Size after Initial Expansion
+0.9, | #Explosion Size after Initial Expansion
 1.8, | #Final Explosion Size
 0.65 #Explosion Height
 half [10] |

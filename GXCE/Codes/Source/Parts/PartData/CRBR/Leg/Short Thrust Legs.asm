@@ -31,7 +31,7 @@ RoboBytes:
 byte [16] |
 0, | #Illegal Toggle 
 100, | #Ground Speed
-200, | #Ground Accel 
+100, | #Ground Accel 
 100, | #Ground Turning
 100, | #Jump Height
 100, | #Jump Speed 
