@@ -20,19 +20,20 @@ BuildTitle:
 ""
 PartDescription:
     String|
-"Increases Ground Turning.
-Increases Ground Acceleration.
-Increases Aerial Acceleration."
+"Increases grounded turning.
+Increases air acceleration but
+reduces top air speed. Speeds
+up but shortens jumps."
 RoboBytes:
 byte [16] |
 0, | #Illegal Toggle 
 100, | #Ground Speed
-200, | #Ground Accel 
+100, | #Ground Accel 
 200, | #Ground Turning
-100, | #Jump Height
-100, | #Jump Speed 
-100, | #Lateral Air Speed 
-67, | #Air Accel 
+1, | #Jump Height
+1, | #Jump Speed 
+25, | #Lateral Air Speed 
+200, | #Air Accel 
 100, | #Landing Lag 
 100, | #Gravity 
 100, | #Dash Startup 

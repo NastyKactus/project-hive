@@ -30,14 +30,14 @@ byte [16] |
 100, | #Ground Speed
 150, | #Ground Accel 
 100, | #Ground Turning
-50, | #Jump Height
+1, | #Jump Height
 100, | #Jump Speed 
 100, | #Lateral Air Speed 
-150, | #Air Accel 
+100, | #Air Accel 
 1, | #Landing Lag 
 100, | #Gravity 
 100, | #Dash Startup 
-1, | #Dash Landing Lag 
+50, | #Dash Landing Lag 
 100, | #Continuous Jump Height 
 100, | #Dash Duration 
 100, | #Dash Speed 

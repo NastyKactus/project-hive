@@ -260,21 +260,19 @@
 .include "/../Source/Parts/PartData/CRBR/Leg/Precision Legs.asm"
 
 .include "/../Source/Parts/PartData/CRBR/Leg/Wide Jump Legs.asm"
-.include "/../Source/Parts/PartData/CRBR/Leg/Aerial Legs.asm"
 .include "/../Source/Parts/PartData/CRBR/Leg/Eclipse Legs.asm"
 .include "/../Source/Parts/PartData/CRBR/Leg/Ultimate Legs.asm"
-
 .include "/../Source/Parts/PartData/CRBR/Leg/High Jump Legs.asm"
+
 .include "/../Source/Parts/PartData/CRBR/Leg/Ground Legs.asm"
 .include "/../Source/Parts/PartData/CRBR/Leg/Quick Jump Legs.asm"
 .include "/../Source/Parts/PartData/CRBR/Leg/Feather Legs.asm"
-
 .include "/../Source/Parts/PartData/CRBR/Leg/Short Thrust Legs.asm"
+
 .include "/../Source/Parts/PartData/CRBR/Leg/Long Thrust Legs.asm"
 .include "/../Source/Parts/PartData/CRBR/Leg/Swallow Legs.asm"
 .include "/../Source/Parts/PartData/CRBR/Leg/Plus One Legs.asm"
-
 .include "/../Source/Parts/PartData/CRBR/Leg/Booster Legs.asm"
-.include "/../Source/Parts/PartData/CRBR/Leg/Overhaul Legs.asm"
+
 .include "/../Source/Parts/PartData/CRBR/Leg/Raven Legs.asm"
 .include "/../Source/Parts/PartData/CRBR/Leg/Prowler Legs.asm"
