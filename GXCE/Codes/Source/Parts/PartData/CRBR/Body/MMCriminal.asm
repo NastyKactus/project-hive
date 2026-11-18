@@ -1,5 +1,5 @@
 ######################################
-Charon [Project Hive]
+Charon [Kyori]
 ######################################
 .alias PartType = 0x00
 .alias PartBase = 0x0F
