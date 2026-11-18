@@ -33,7 +33,7 @@ half[1] |
 byte[22] |
 110, | #Defense
 100, | #Knockback
-100, | #Hitstun
+120, | #Hitstun
 0, | #Illegal Toggle
 150, | #Time Spent Down without Mashing
 57, | #Time Spent Down with Mashing
@@ -44,8 +44,8 @@ byte[22] |
 100, | #Gun Damage
 100, | #Bomb Damage
 100, | #Pod Damage
-100, | #Gun Endlag
-2, 4, 6, | #Reduced, Unmodified, and Boosted Air Dash Startup
+110, | #Gun Endlag
+3, 6, 9, | #Reduced, Unmodified, and Boosted Air Dash Startup
 8, 12, 16, | #Reduced, Unmodified, and Boosted Dash Landing Lag
 2, | #Air Dash Type(00 = Normal Air Dash, 01 = Continuous Jump, 02 = LS)
 0 #Number of Continuous Jumps
