@@ -56,6 +56,10 @@
 .include "/../Source/Parts/PartData/CRBR/Body/OTDourHead.asm"
 .include "/../Source/Parts/PartData/CRBR/Body/OTPeregrine.asm"
 
+.include "/../Source/Parts/PartData/CRBR/Body/MMCriminal.asm"
+.include "/../Source/Parts/PartData/CRBR/Body/MMJuggler.asm"
+.include "/../Source/Parts/PartData/CRBR/Body/MMRahu2.asm"
+
 .include "/../Source/Parts/PartData/CRBR/Body/SFOilCan.asm"
 
 #Guns
