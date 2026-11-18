@@ -44,7 +44,7 @@ byte[22] |
 100, | #Bomb Damage
 100, | #Pod Damage
 110, | #Gun Endlag
-3, 6, 9, | #Reduced, Unmodified, and Boosted Air Dash Startup
+4, 7, 10, | #Reduced, Unmodified, and Boosted Air Dash Startup
 8, 12, 16, | #Reduced, Unmodified, and Boosted Dash Landing Lag
 2, | #Air Dash Type(00 = Normal Air Dash, 01 = Continuous Jump, 02 = LS)
 0 #Number of Continuous Jumps
@@ -82,11 +82,11 @@ half [16] |
 175, | #Knockback Velocity
 80, | #Knockback Angle
 15, | #Homing
-7, | #Startup Phase Duration (+3 for # of Frames)
-10, | #Attack Phase Duration (+1 for # of Frames)
+8, | #Startup Phase Duration (+3 for # of Frames)
+13, | #Attack Phase Duration (+1 for # of Frames)
 20, | #Recovery Phase Duration
-300, | #Startup Phase Speed
-250, | #Attack Phase Speed
+264, | #Startup Phase Speed
+190, | #Attack Phase Speed
 75, | #Recovery Phase Speed
 90, | #Startup Phase Angle
 -35, | #Attack Phase Angle
