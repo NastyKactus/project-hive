@@ -20,11 +20,10 @@ BuildTitle:
 ""
 PartDescription:
     String|
-"Increases grounded turning
-and acceleration but reduces
-top speed. Increases air 
-acceleration but reduces 
-top air speed."
+"Increases turning and
+acceleration on the ground
+and air, but limits run
+and lateral air top speed."
 RoboBytes:
 byte [16] |
 0, | #Illegal Toggle 

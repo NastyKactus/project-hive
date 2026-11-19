@@ -20,10 +20,12 @@ BuildTitle:
 ""
 PartDescription:
     String|
-"Heavily reduces Landing Lag.
-Reduces Jump Height.
-Increases Ground Acceleration.
-Increases Aerial Acceleration."
+"Reduces landing lag from
+both dashes and normal
+jumps alongside increasing
+ground acceleration.
+Significantly lowers jump
+height."
 RoboBytes:
 byte [16] |
 0, | #Illegal Toggle 

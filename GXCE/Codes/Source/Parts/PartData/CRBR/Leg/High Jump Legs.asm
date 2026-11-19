@@ -20,8 +20,8 @@ BuildTitle:
 ""
 PartDescription:
     String|
-"Increases Jump Height. 
-Increases Jump Speed."
+"Increases the speed
+and height of jumps."
 RoboBytes:
 byte [16] |
 0, | #Illegal Toggle 

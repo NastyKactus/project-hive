@@ -20,8 +20,9 @@ BuildTitle:
 ""
 PartDescription:
     String|
-"Increases Dash Speed. 
-Decreases Dash Startup."
+"Increases dash speed,
+but also increases the
+startup time."
 RoboBytes:
 byte [16] |
 0, | #Illegal Toggle 

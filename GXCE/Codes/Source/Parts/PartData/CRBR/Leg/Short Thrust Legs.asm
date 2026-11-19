@@ -20,13 +20,10 @@ BuildTitle:
 ""
 PartDescription:
     String|
-"Decreases Dash Duration. 
-Heavily decreases Dash 
-Startup.
-Heavily decreases Dash 
-Landing Lag.
-Heavily Increases Ground 
-Acceleration."
+"Decreases the distance
+and startup time for dashes.
+Also decreases the landing
+lag after dashing."
 RoboBytes:
 byte [16] |
 0, | #Illegal Toggle 

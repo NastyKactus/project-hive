@@ -20,7 +20,7 @@ BuildTitle:
 ""
 PartDescription:
     String|
-"Increases Lateral Airspeed."
+"Increases lateral air speed."
 RoboBytes:
 byte [16] |
 0, | #Illegal Toggle 

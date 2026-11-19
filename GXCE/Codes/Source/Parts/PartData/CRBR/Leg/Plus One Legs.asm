@@ -20,8 +20,9 @@ BuildTitle:
 ""
 PartDescription:
     String|
-"Grants an added air dash.
-Increases Landing Lag."
+"Grants an additional air
+dash. Increases landing
+lag after using dashes."
 RoboBytes:
 byte [16] |
 00, | #Illegal Toggle 
