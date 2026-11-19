@@ -20,8 +20,7 @@ BuildTitle:
 ""
 PartDescription:
     String|
-"Increases Dash Length.
-Minorly increases Dash Speed."
+"Increase dash length."
 RoboBytes:
 byte [16] |
 0, | #Illegal Toggle 
@@ -36,9 +35,9 @@ byte [16] |
 100, | #Gravity 
 100, | #Dash Startup 
 100, | #Dash Landing Lag 
-215, | #Continuous Jump Height 
-175, | #Dash Duration 
-150, | #Dash Speed 
+200, | #Continuous Jump Height 
+200, | #Dash Duration 
+100, | #Dash Speed 
 0xFF  #Filler Data
 ExtraBytes:
 byte [5] 5, 5, 5, 5, 5   #Stat Line

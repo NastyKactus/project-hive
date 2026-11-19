@@ -279,5 +279,6 @@
 .include "/Source/Parts/PartData/CRBR/Leg/Plus One Legs.asm"
 .include "/Source/Parts/PartData/CRBR/Leg/Booster Legs.asm"
 
+.include "/Source/Parts/PartData/CRBR/Leg/Overhaul Legs.asm"
 .include "/Source/Parts/PartData/CRBR/Leg/Raven Legs.asm"
 .include "/Source/Parts/PartData/CRBR/Leg/Prowler Legs.asm"

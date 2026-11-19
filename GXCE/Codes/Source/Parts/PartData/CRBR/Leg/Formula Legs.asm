@@ -20,16 +20,16 @@ BuildTitle:
 ""
 PartDescription:
     String|
-"Heavily increases Running 
-Speed.
-Increases Ground Acceleration.
-Decreases Ground Turning."
+"Massively increases top
+speed while running and slightly
+improves acceleration, but
+significantly lowers turning."
 RoboBytes:
 byte [16] |
 0, | #Illegal Toggle 
 225, | #Ground Speed
 150, | #Ground Accel 
-50, | #Ground Turning
+1, | #Ground Turning
 100, | #Jump Height
 100, | #Jump Speed 
 100, | #Lateral Air Speed 

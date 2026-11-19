@@ -20,9 +20,12 @@ BuildTitle:
 ""
 PartDescription:
     String|
-"Heavily Increases Dash 
-Speed.
-Increases Air Dash Startup."
+"Moderately increases the
+distance and massively 
+increases the speed of 
+dashes. Limits lateral air 
+speed and  air acceleration.
+Slows down jumps."
 RoboBytes:
 byte [16] |
 0, | #Illegal Toggle 
@@ -30,16 +33,16 @@ byte [16] |
 100, | #Ground Accel 
 100, | #Ground Turning
 100, | #Jump Height
-100, | #Jump Speed 
-100, | #Lateral Air Speed 
-100, | #Air Accel 
+150, | #Jump Speed 
+1, | #Lateral Air Speed 
+1, | #Air Accel 
 100, | #Landing Lag 
 100, | #Gravity 
-200, | #Dash Startup 
+100, | #Dash Startup 
 100, | #Dash Landing Lag 
 250, | #Continuous Jump Height 
 75, | #Dash Duration 
-250, | #Dash Speed 
+225, | #Dash Speed 
 0xFF  #Filler Data
 ExtraBytes:
 byte [5] 5, 5, 5, 5, 5   #Stat Line

@@ -20,10 +20,11 @@ BuildTitle:
 ""
 PartDescription:
     String|
-"Increases turning and
-acceleration on the ground
-and air, but limits run
-and lateral air top speed."
+"Increases the speed of
+jumps and acceleration on
+the ground and in the air.
+Heavily limits lateral air
+speed and ground top speed."
 RoboBytes:
 byte [16] |
 0, | #Illegal Toggle 
@@ -31,7 +32,7 @@ byte [16] |
 200, | #Ground Accel 
 200, | #Ground Turning
 100, | #Jump Height
-100, | #Jump Speed 
+1, | #Jump Speed 
 25, | #Lateral Air Speed 
 200, | #Air Accel 
 100, | #Landing Lag 

@@ -37,7 +37,7 @@ byte [16] |
 100, | #Gravity 
 150, | #Dash Startup 
 100, | #Dash Landing Lag 
-200, | #Continuous Jump Height 
+215, | #Continuous Jump Height 
 50, | #Dash Duration 
 200, | #Dash Speed 
 0xFF  #Filler Data

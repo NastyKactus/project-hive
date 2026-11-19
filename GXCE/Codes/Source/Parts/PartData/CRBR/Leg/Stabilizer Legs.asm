@@ -20,11 +20,8 @@ BuildTitle:
 ""
 PartDescription:
     String|
-"Heavily increases Ground
-Acceleration.
-Heavily increases Ground
-Turning.
-Reduces Air Dash Startup."
+"Increases grounded
+acceleration and turning."
 RoboBytes:
 byte [16] |
 0, | #Illegal Toggle 
