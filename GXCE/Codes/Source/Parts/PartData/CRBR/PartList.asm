@@ -128,6 +128,8 @@
 .include "/Source/Parts/PartData/CRBR/Gun/Slide Gun.asm"
 .include "/Source/Parts/PartData/CRBR/Gun/Rising Gun.asm"
 
+.include "/Source/Parts/PartData/CRBR/Gun/X Laser Gun.asm"
+
 #Bomb
 .include "/Source/Parts/PartData/CRBR/Bomb/Standard Bomb R.asm"
 .include "/Source/Parts/PartData/CRBR/Bomb/Standard Bomb F.asm"

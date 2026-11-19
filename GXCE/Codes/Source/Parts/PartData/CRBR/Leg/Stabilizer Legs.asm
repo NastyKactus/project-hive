@@ -37,7 +37,7 @@ byte [16] |
 100, | #Air Accel 
 100, | #Landing Lag 
 100, | #Gravity 
-50, | #Dash Startup 
+100, | #Dash Startup 
 100, | #Dash Landing Lag 
 100, | #Continuous Jump Height 
 100, | #Dash Duration 

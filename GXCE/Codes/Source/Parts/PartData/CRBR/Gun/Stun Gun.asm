@@ -62,7 +62,7 @@ half[2] |
 5, | #Phase Duration
 0 #Padding
 float[4] |
-0.355, | #Phase Speed
+0.337, | #Phase Speed
 0.25, | #Horizontal Homing
 0.25, | #Vertical Homing
 0.3 #Shot Size
@@ -70,7 +70,7 @@ byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-21, | #Damage
+20, | #Damage
 350, | #Down
 10, | #Knockback Velocity
 0, | #Knockback Angle
@@ -190,7 +190,7 @@ half[2] |
 5, | #Phase Duration
 0 #Padding
 float[4] |
-0.355, | #Phase Speed
+0.337, | #Phase Speed
 0.25, | #Horizontal Homing
 0.25, | #Vertical Homing
 0.3 #Shot Size
@@ -198,7 +198,7 @@ byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-18, | #Damage
+14, | #Damage
 350, | #Down
 10, | #Knockback Velocity
 0, | #Knockback Angle
