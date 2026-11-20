@@ -48,7 +48,7 @@ byte[4] |
 0x00 #Empty Data?
 half [13] |
 85, | #Roaming Phase Speed
-70, | #Locked On Phase Speed
+65, | #Locked On Phase Speed
 140, | #Roaming Phase Height
 10, | #Locked On Phase Height
 90, | #Angle for conen of vision for activating lock on phase
@@ -78,7 +78,7 @@ half [10] |
 300, | #Down
 100, | #Knockback Velocity
 50, | #Knockback Angle
-15, | #Hitstun
+12, | #Hitstun
 100, | #On-Hit Gravity
 100, | #Knockback Velocity (Downed)
 50, | #Knockback Anlge (Downed)

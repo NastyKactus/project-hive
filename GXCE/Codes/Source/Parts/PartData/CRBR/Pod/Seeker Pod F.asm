@@ -77,7 +77,7 @@ half [10] |
 300, | #Down
 150, | #Knockback Velocity
 20, | #Knockback Angle
-20, | #Hitstun
+12, | #Hitstun
 100, | #On-Hit Gravity
 150, | #Knockback Velocity (Downed)
 20, | #Knockback Anlge (Downed)

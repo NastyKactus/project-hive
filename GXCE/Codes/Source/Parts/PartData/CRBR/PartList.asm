@@ -254,8 +254,6 @@
 .include "/Source/Parts/PartData/CRBR/Pod/Beast Pod F.asm"
 .include "/Source/Parts/PartData/CRBR/Pod/Sky Wave Pod.asm"
 .include "/Source/Parts/PartData/CRBR/Pod/Dash Pod.asm"
-.include "/Source/Parts/PartData/CRBR/Pod/Vulture Pod B.asm"
-
 .include "/Source/Parts/PartData/CRBR/Pod/Divide Pod F.asm"
 
 #Legs
