@@ -44,10 +44,10 @@ half [8] |
 byte[4] |
 1, | #Homing Toggle
 50, | #Roaming Phase Homing
-10, | #Locked On Phase Homing
+15, | #Locked On Phase Homing
 0x00 #Empty Data?
 half [13] |
-5, | #Roaming Phase Speed
+10, | #Roaming Phase Speed
 160, | #Locked On Phase Speed
 10, | #Roaming Phase Height
 10, | #Locked On Phase Height
@@ -57,7 +57,7 @@ half [13] |
 0, | #Initial Ground Launch Angle
 0, | #Initial Air Launch Angle
 100, | #Initial Ground Launch Speed
-10, | #Initial Air Launch Speed
+20, | #Initial Air Launch Speed
 10, | #Initial Ground Launch Duration
 50 #Initial Air Launch Duration
 byte[4] |
