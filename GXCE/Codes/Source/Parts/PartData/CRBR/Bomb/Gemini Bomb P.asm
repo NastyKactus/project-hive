@@ -37,7 +37,7 @@ half [1] 40 #Explosion Trigger Radius
 ## Ground Shot ##
 #################
 byte [2] |
-100, | #Starting location of reticle (% of distance to opponent)
+90, | #Starting location of reticle (% of distance to opponent)
 90, #Reload
 half [3] |
 0, | #Burrow Time
@@ -97,8 +97,8 @@ half [4] |
 ## Air Shot ##
 #################
 byte [2] |
-80, | #Starting location of reticle (% of distance to opponent)
-70 #Reload
+90, | #Starting location of reticle (% of distance to opponent)
+90 #Reload
 half [3] |
 0, | #Burrow Time
 180, | #Projectile Speed

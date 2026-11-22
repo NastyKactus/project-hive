@@ -65,13 +65,13 @@ byte[4] |
 1, | #Number of Explosions
 1 #Delay between Explosions
 half [3] |
-9, | #Explosion Expansion Duration
-32, | #Explosion Lingering Hitbox Duration
+5, | #Explosion Expansion Duration
+19, | #Explosion Lingering Hitbox Duration
 0x0000 #Empty Data?
 float [3] |
-0.5, | #eExplosion Size after Initial Expansion
-0.625, | #Final Explosion Size
-4.68 #Explosion Height
+0.656, | #eExplosion Size after Initial Expansion
+0.744, | #Final Explosion Size
+3.0 #Explosion Height
 half [10] |
 40, | #Damage
 300, | #Down

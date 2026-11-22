@@ -72,7 +72,7 @@ half [3] |
 float [3] |
 0.8, | #eExplosion Size after Initial Expansion
 0.9, | #Final Explosion Size
-0.899 #Explosion Height
+0.59 #Explosion Height
 half [10] |
 36, | #Damage
 300, | #Down

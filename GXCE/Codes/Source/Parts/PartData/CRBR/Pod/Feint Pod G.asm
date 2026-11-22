@@ -53,7 +53,7 @@ half [13] |
 10, | #Locked On Phase Height
 90, | #Angle for conen of vision for activating lock on phase
 255, | #Lock On Range
-20, | #Duration of pause for switching between roaming and locked on.
+35, | #Duration of pause for switching between roaming and locked on.
 0, | #Initial Ground Launch Angle
 5, | #Initial Air Launch Angle
 100, | #Initial Ground Launch Speed
@@ -78,7 +78,7 @@ half [10] |
 300, | #Down
 150, | #Knockback Velocity
 90, | #Knockback Angle
-20, | #Hitstun
+12, | #Hitstun
 100, | #On-Hit Gravity
 150, | #Knockback Velocity (Downed)
 90, | #Knockback Anlge (Downed)

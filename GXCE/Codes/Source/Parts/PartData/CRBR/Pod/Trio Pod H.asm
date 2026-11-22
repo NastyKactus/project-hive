@@ -69,9 +69,9 @@ half [3] |
 32, | #Explosion Lingering Hitbox Duration
 0x0000 #Empty Data?
 float [3] |
-0.8, | #eExplosion Size after Initial Expansion
-0.9, | #Final Explosion Size
-0.59 #Explosion Height
+0.7, | #eExplosion Size after Initial Expansion
+0.7875, | #Final Explosion Size
+0.5163 #Explosion Height
 half [10] |
 38, | #Damage
 300, | #Down

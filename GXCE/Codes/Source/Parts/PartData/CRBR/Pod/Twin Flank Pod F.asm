@@ -44,11 +44,11 @@ half [8] |
 byte[4] |
 1, | #Homing Toggle
 22, | #Roaming Phase Homing
-22, | #Locked On Phase Homing
+14, | #Locked On Phase Homing
 0x00 #Empty Data?
 half [13] |
-85, | #Roaming Phase Speed
-120, | #Locked On Phase Speed
+75, | #Roaming Phase Speed
+115, | #Locked On Phase Speed
 10, | #Roaming Phase Height
 10, | #Locked On Phase Height
 90, | #Angle for conen of vision for activating lock on phase
@@ -78,7 +78,7 @@ half [10] |
 300, | #Down
 150, | #Knockback Velocity
 20, | #Knockback Angle
-20, | #Hitstun
+12, | #Hitstun
 100, | #On-Hit Gravity
 150, | #Knockback Velocity (Downed)
 20, | #Knockback Anlge (Downed)

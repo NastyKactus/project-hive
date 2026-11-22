@@ -36,7 +36,7 @@ half [1] 70 #Explosion Trigger Radius
 ## Ground Shot ##
 #################
 byte [2] |
-100, | #Starting location of reticle (% of distance to opponent)
+90, | #Starting location of reticle (% of distance to opponent)
 90, #Reload
 half [3] |
 0, | #Burrow Time
@@ -54,7 +54,7 @@ float [3] |
 0.8, | #Final Explosion Size 
 0.5 #Explosion Height 
 half [10] |
-58, | #Damage 
+46, | #Damage 
 375, | #Down 
 100, | #Knockback Velocity 
 50, | #Knockback Angle 
@@ -96,8 +96,8 @@ half [4] |
 ## Air Shot ##
 #################
 byte [2] |
-80, | #Starting location of reticle (% of distance to opponent)
-70 #Reload
+90, | #Starting location of reticle (% of distance to opponent)
+90 #Reload
 half [3] |
 0, | #Burrow Time
 180, | #Projectile Speed
@@ -114,7 +114,7 @@ float [3] |
 0.8, | #Final Explosion Size 
 0.5 #Explosion Height 
 half [10] |
-58, | #Damage 
+46, | #Damage 
 375, | #Down 
 100, | #Knockback Velocity
 50, | #Knockback Angle
