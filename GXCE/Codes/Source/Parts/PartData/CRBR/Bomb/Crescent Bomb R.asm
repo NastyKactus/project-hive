@@ -93,7 +93,7 @@ half [4] |
 ## Air Shot ##
 #################
 byte [2] |
-90, | #Starting location of reticle (% of distance to opponent)
+85, | #Starting location of reticle (% of distance to opponent)
 90 #Reload
 half [3] |
 0, | #Burrow Time
