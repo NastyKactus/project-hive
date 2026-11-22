@@ -56,7 +56,7 @@ byte[6] |
 2, | #Number of Air Dashes
 0, | #SV Air Dash Toggle
 0, | #Air Dash Angle
-5, 10, 15    #Reduced, Unmodified, and Boosted Air Dash Length
+6, 10, 14    #Reduced, Unmodified, and Boosted Air Dash Length
 half [38] |
 250, 340, 430, | #Reduced, Unmodified, and Boosted Air Dash Speed
 0, 0, 0, | #Reduced, Unmodified, and Boosted LS Dash Turning
