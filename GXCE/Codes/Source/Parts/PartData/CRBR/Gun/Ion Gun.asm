@@ -63,7 +63,7 @@ half[2] |
 14, | #Phase Duration
 0 #Padding
 float[4] |
-0.22, | #Phase Speed
+0.23, | #Phase Speed
 0.0, | #Horizontal Homing
 0.0, | #Vertical Homing
 0.3 #Shot Size
@@ -75,7 +75,7 @@ half[9] |
 350, | #Down
 170, | #Knockback Velocity
 0, | #Knockback Angle
-35, | #Hitstun
+45, | #Hitstun
 100, | #On-Hit Gravity
 170, | #Knockback Velocity (Downed)
 35, | #Knockback Angle (Downed)
@@ -107,7 +107,7 @@ half[2] |
 9, | #Phase Duration
 0 #Padding
 float[4] |
-0.22, | #Phase Speed
+0.21, | #Phase Speed
 0.0, | #Horizontal Homing
 0.0, | #Vertical Homing
 0.3 #Shot Size
@@ -119,7 +119,7 @@ half[9] |
 350, | #Down
 170, | #Knockback Velocity
 0, | #Knockback Angle
-40, | #Hitstun
+35, | #Hitstun
 100, | #On-Hit Gravity
 170, | #Knockback Velocity (Downed)
 35, | #Knockback Angle (Downed)
@@ -141,7 +141,7 @@ half[9] |
 350, | #Down
 170, | #Knockback Velocity
 0, | #Knockback Angle
-60, | #Hitstun
+30, | #Hitstun
 100, | #On-Hit Gravity
 170, | #Knockback Velocity (Downed)
 35, | #Knockback Angle (Downed)
@@ -151,7 +151,7 @@ half[2] |
 159, | #Phase Duration
 0 #Padding
 float[4] |
-0.22, | #Phase Speed
+0.2, | #Phase Speed
 0.0, | #Horizontal Homing
 0.0, | #Vertical Homing
 0.3 #Shot Size
@@ -163,7 +163,7 @@ half[9] |
 350, | #Down
 170, | #Knockback Velocity
 0, | #Knockback Angle
-60, | #Hitstun
+25, | #Hitstun
 100, | #On-Hit Gravity
 170, | #Knockback Velocity (Downed)
 35, | #Knockback Angle (Downed)
@@ -191,7 +191,7 @@ half[2] |
 14, | #Phase Duration
 0 #Padding
 float[4] |
-0.22, | #Phase Speed
+0.23, | #Phase Speed
 0.0, | #Horizontal Homing
 0.0, | #Vertical Homing
 0.3 #Shot Size
@@ -203,7 +203,7 @@ half[9] |
 350, | #Down
 170, | #Knockback Velocity
 0, | #Knockback Angle
-35, | #Hitstun
+45, | #Hitstun
 100, | #On-Hit Gravity
 170, | #Knockback Velocity (Downed)
 35, | #Knockback Angle (Downed)
@@ -235,7 +235,7 @@ half[2] |
 9, | #Phase Duration
 0 #Padding
 float[4] |
-0.22, | #Phase Speed
+0.21, | #Phase Speed
 0.0, | #Horizontal Homing
 0.0, | #Vertical Homing
 0.3 #Shot Size
@@ -247,7 +247,7 @@ half[9] |
 350, | #Down
 170, | #Knockback Velocity
 0, | #Knockback Angle
-40, | #Hitstun
+35, | #Hitstun
 100, | #On-Hit Gravity
 170, | #Knockback Velocity (Downed)
 35, | #Knockback Angle (Downed)
@@ -269,7 +269,7 @@ half[9] |
 350, | #Down
 170, | #Knockback Velocity
 0, | #Knockback Angle
-60, | #Hitstun
+30, | #Hitstun
 100, | #On-Hit Gravity
 170, | #Knockback Velocity (Downed)
 35, | #Knockback Angle (Downed)
@@ -279,7 +279,7 @@ half[2] |
 159, | #Phase Duration
 0 #Padding
 float[4] |
-0.22, | #Phase Speed
+0.2, | #Phase Speed
 0.0, | #Horizontal Homing
 0.0, | #Vertical Homing
 0.3 #Shot Size
@@ -291,7 +291,7 @@ half[9] |
 350, | #Down
 170, | #Knockback Velocity
 0, | #Knockback Angle
-60, | #Hitstun
+25, | #Hitstun
 100, | #On-Hit Gravity
 170, | #Knockback Velocity (Downed)
 35, | #Knockback Angle (Downed)
