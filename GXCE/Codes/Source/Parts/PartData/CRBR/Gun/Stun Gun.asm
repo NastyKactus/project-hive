@@ -198,7 +198,7 @@ byte[2] |
 0, | #Lingering Hitbox Duration
 0 #Padding
 half[9] |
-14, | #Damage
+13, | #Damage
 350, | #Down
 10, | #Knockback Velocity
 0, | #Knockback Angle
