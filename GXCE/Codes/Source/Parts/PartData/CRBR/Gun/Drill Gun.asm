@@ -75,7 +75,7 @@ half[9] |
 120, | #Down
 30, | #Knockback Velocity
 165, | #Knockback Angle
-28, | #Hitstun
+36, | #Hitstun
 100, | #On-Hit Gravity
 100, | #Knockback Velocity (Downed)
 140, | #Knockback Angle (Downed)
@@ -97,7 +97,7 @@ half[9] |
 110, | #Down
 30, | #Knockback Velocity
 165, | #Knockback Angle
-22, | #Hitstun
+25, | #Hitstun
 100, | #On-Hit Gravity
 100, | #Knockback Velocity (Downed)
 140, | #Knockback Angle (Downed)
@@ -203,7 +203,7 @@ half[9] |
 120, | #Down
 30, | #Knockback Velocity
 175, | #Knockback Angle
-28, | #Hitstun
+36, | #Hitstun
 100, | #On-Hit Gravity
 100, | #Knockback Velocity (Downed)
 140, | #Knockback Angle (Downed)
@@ -225,7 +225,7 @@ half[9] |
 110, | #Down
 30, | #Knockback Velocity
 175, | #Knockback Angle
-22, | #Hitstun
+25, | #Hitstun
 100, | #On-Hit Gravity
 100, | #Knockback Velocity (Downed)
 140, | #Knockback Angle (Downed)
