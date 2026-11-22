@@ -14,7 +14,7 @@ Geezer [Kactus]
     .BA<-BuildTitle
 PartName:
     String|
-"Geezer ^`"
+"Geezer"
 BuildTitle:
     String|
 ""
@@ -58,15 +58,15 @@ byte[6] |
 half [38] |
 75, 150, 180, | #Reduced, Unmodified, and Boosted Air Dash Speed
 0, 0, 0, | #Reduced, Unmodified, and Boosted LS Dash Turning
-40, 45, 50, | #Reduced, Unmodified, and Boosted Run Speed
-132, 220, 400, | #Reduced, Unmodified, and Boosted Ground Acceleration
+30, 45, 70, | #Reduced, Unmodified, and Boosted Run Speed
+75, 150, 300, | #Reduced, Unmodified, and Boosted Ground Acceleration
 105, 140, 190, | #Reduced, Unmodified, and Boosted Ground Turning
 120, 250, 380, | #Reduced, Unmodified, and Boosted Jump Height
-9, 21, 33, | #Reduced, Unmodified, and Boosted Jump Speed
+12, 24, 36, | #Reduced, Unmodified, and Boosted Jump Speed
 100, 115, 130, | #Reduced, Unmodified, and Boosted Lateral Air Speed
 180, 330, 480, | #Reduced, Unmodified, and Boosted Air Acceleration
-18, 26, 34, | #Reduced, Unmodified, and Boosted Landing Lag
-40, 65, 90, | #Reduced, Unmodified, and Boosted Gravity
+16, 24, 32, | #Reduced, Unmodified, and Boosted Landing Lag
+45, 70, 95, | #Reduced, Unmodified, and Boosted Gravity
 35, | #Collision Box Size Related
 50, | #Collision Box Size Related
 40, | #????

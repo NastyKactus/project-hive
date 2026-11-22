@@ -31,11 +31,11 @@ RoboBytes:
 half[1] |
 600, #Down
 byte[22] |
-115, | #Defense
+110, | #Defense
 120, | #Knockback
 100, | #Hitstun
 0, | #Illegal Toggle
-140, | #Time Spent Down without Mashing
+150, | #Time Spent Down without Mashing
 57, | #Time Spent Down with Mashing
 30, | #Damage taken from guns when downed
 50, | #Damage taken from bombs when downed
@@ -45,7 +45,7 @@ byte[22] |
 100, | #Bomb Damage
 100, | #Pod Damage
 100, | #Gun Endlag
-4, 8, 12, | #Reduced, Unmodified, and Boosted Air Dash Startup
+2, 4, 6, | #Reduced, Unmodified, and Boosted Air Dash Startup
 6, 10, 14, | #Reduced, Unmodified, and Boosted Dash Landing Lag
 0, | #Air Dash Type(00 = Normal Air Dash, 01 = Continuous Jump, 02 = LS)
 0 #Number of Continuous Jumps
@@ -54,20 +54,20 @@ half[3] |
 byte[6] |
 3, | #Number of Air Dashes
 0, | #SV Air Dash Toggle
--2, | #Air Dash Angle
-5, 9, 13 #Reduced, Unmodified, and Boosted Air Dash Length
+-13, | #Air Dash Angle
+12, 20, 28 #Reduced, Unmodified, and Boosted Air Dash Length
 half [38] |
-150, 300, 450, | #Reduced, Unmodified, and Boosted Air Dash Speed
+55, 115, 175, | #Reduced, Unmodified, and Boosted Air Dash Speed
 0, 0, 0, | #Reduced, Unmodified, and Boosted LS Dash Turning
 70, 85, 100, | #Reduced, Unmodified, and Boosted Run Speed
 200, 350, 500, | #Reduced, Unmodified, and Boosted Ground Acceleration
 45, 80, 130, | #Reduced, Unmodified, and Boosted Ground Turning
 130, 210, 280, | #Reduced, Unmodified, and Boosted Jump Height
-1, 3, 5, | #Reduced, Unmodified, and Boosted Jump Speed
-80, 100, 140, | #Reduced, Unmodified, and Boosted Lateral Air Speed
-170, 340, 720, | #Reduced, Unmodified, and Boosted Air Acceleration
+3, 5, 7, | #Reduced, Unmodified, and Boosted Jump Speed
+105, 140, 175, | #Reduced, Unmodified, and Boosted Lateral Air Speed
+45, 75, 105, | #Reduced, Unmodified, and Boosted Air Acceleration
 6, 12, 20, | #Reduced, Unmodified, and Boosted Landing Lag
-50, 100, 175, | #Reduced, Unmodified, and Boosted Gravity
+60, 115, 170, | #Reduced, Unmodified, and Boosted Gravity
 35, | #Collision Box Size Related
 120, | #Collision Box Size Related
 40, | #????
