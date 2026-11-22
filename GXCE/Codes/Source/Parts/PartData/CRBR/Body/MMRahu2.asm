@@ -64,7 +64,7 @@ half [38] |
 100, 200, 400, | #Reduced, Unmodified, and Boosted LS Dash Turning
 50, 65, 85, | #Reduced, Unmodified, and Boosted Run Speed
 100, 200, 300, | #Reduced, Unmodified, and Boosted Ground Acceleration
-100, 200, 400, | #Reduced, Unmodified, and Boosted Ground Turning
+90, 125, 175, | #Reduced, Unmodified, and Boosted Ground Turning
 75, 110, 160, | #Reduced, Unmodified, and Boosted Jump Height
 7, 12, 17, | #Reduced, Unmodified, and Boosted Jump Speed
 90, 110, 140, | #Reduced, Unmodified, and Boosted Lateral Air Speed

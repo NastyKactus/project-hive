@@ -47,12 +47,12 @@ byte[4] |
 0x00 #Empty Data?
 half [13] |
 45, | #Roaming Phase Speed
-45, | #Locked On Phase Speed
+35, | #Locked On Phase Speed
 0, | #Roaming Phase Height
 0, | #Locked On Phase Height
 90, | #Angle for conen of vision for activating lock on phase
 300, | #Lock On Range
-5, | #Duration of pause for switching between roaming and locked on.
+2, | #Duration of pause for switching between roaming and locked on.
 0, | #Initial Ground Launch Angle
 5, | #Initial Air Launch Angle
 100, | #Initial Ground Launch Speed
