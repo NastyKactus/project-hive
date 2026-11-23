@@ -14,7 +14,7 @@ Rising Gun [Kactus]
     .BA<-BuildTitle
 PartName:
     String|
-"Rising Gun ^`"
+"Rising Gun"
 BuildTitle:
     String|
 ""
@@ -30,7 +30,7 @@ Recommended Range:
 Short"
 RoboBytes:
 byte[56] |
-1,| #Illegal Toggle
+0,| #Illegal Toggle
 15, | #Slideshot Duration
 0, | #Related to Homing when rounds aren't facing the opponent
 0, 0, 0, 0, | #Nothing?

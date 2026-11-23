@@ -14,7 +14,7 @@ Dullahan [Kyori]
     .BA<-BuildTitle
 PartName:
     String|
-"Dullahan^`"
+"Dullahan ^`"
 BuildTitle:
     String|
 ""
@@ -28,7 +28,7 @@ through walls. Attacking
 cancels your Mirage Dash. 
 Charge attacks phase 
 through walls.
-Charge: Moves quickly 
+Charge: Slowly charges 
 toward its opponent."
 RoboBytes:
 half[1] |
@@ -88,9 +88,9 @@ half [16] |
 30, | #Homing
 10, | #Startup Phase Duration (+3 for # of Frames)
 50, | #Attack Phase Duration (+1 for # of Frames)
-30, | #Recovery Phase Duration
-100, | #Startup Phase Speed
-115, | #Attack Phase Speed
+35, | #Recovery Phase Duration
+85, | #Startup Phase Speed
+100, | #Attack Phase Speed
 50, | #Recovery Phase Speed
 0, | #Startup Phase Angle
 0, | #Attack Phase Angle

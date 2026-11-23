@@ -14,7 +14,7 @@ Nidhogg [Kyori]
     .BA<-BuildTitle
 PartName:
     String|
-"Nidhogg^`"
+"Nidhogg ^`"
 BuildTitle:
     String|
 ""
@@ -28,8 +28,9 @@ through walls. Attacking
 cancels your Mirage Dash. 
 Charge attacks phase 
 through walls.
-Charge: Charges straight 
-toward its opponent."
+Charge: Steps back before 
+charging straight toward 
+its opponent."
 RoboBytes:
 half[1] |
 1200, #Down
@@ -82,19 +83,19 @@ byte [2] |
 2, |    #Invulnerability
 0       #Invisibility
 half [16] |
-135, |  #Charge Damage
+145, |  #Charge Damage
 180, |  #Knockback Velocity
 75, |   #Knockback Angle
-10, |   #Homing
-10, |   #Startup Phase Duration (+3 for # of Frames)
-14, |   #Attack Phase Duration (+1 for # of Frames)
+0, |   #Homing
+16, |   #Startup Phase Duration (+3 for # of Frames)
+13, |   #Attack Phase Duration (+1 for # of Frames)
 30, |   #Recovery Phase Duration
-80, |   #Startup Phase Speed
-240, |  #Attack Phase Speed
-0, |   #Recovery Phase Speed
-0, |    #Startup Phase Angle
-0, |    #Attack Phase Angle
-0, |  #Recovery Phase Angle
+105, |   #Startup Phase Speed
+335, |  #Attack Phase Speed
+25, |   #Recovery Phase Speed
+155, |    #Startup Phase Angle
+-10, |    #Attack Phase Angle
+-40, |  #Recovery Phase Angle
 40, |   #Hitbox Size Related
 20, |   #Hitbox Size Related
 -20       #Hitbox Size Related

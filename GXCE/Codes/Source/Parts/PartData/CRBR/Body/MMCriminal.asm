@@ -2,7 +2,7 @@
 Charon [Kyori]
 ######################################
 .alias PartType = 0x00
-.alias PartBase = 0x0F
+.alias PartBase = 0x10
 .alias ModelID = 0x0F
     .BA<-PartName
     .BA->$8023BCF0
@@ -14,7 +14,7 @@ Charon [Kyori]
     .BA<-BuildTitle
 PartName:
     String|
-"Charon^`"
+"Charon ^`"
 BuildTitle:
     String|
 ""
@@ -28,9 +28,9 @@ through walls. Attacking
 cancels your Mirage Dash. 
 Charge attacks phase 
 through walls.
-Charge: Charges straight 
-toward its opponent and 
-jumps upward after impact."
+Charge: Charges straight
+towards its opponent 
+while rising."
 RoboBytes:
 half[1] |
 1200, #Down
@@ -83,19 +83,19 @@ byte [2] |
 2, | #Invulnerability
 0 #Invisibility
 half [16] |
-130, | #Charge Damage
-150, | #Knockback Velocity
-130, | #Knockback Angle
-40, | #Homing
-10, | #Startup Phase Duration (+3 for # of Frames)
-20, | #Attack Phase Duration (+1 for # of Frames)
-8, | #Recovery Phase Duration
-0, | #Startup Phase Speed
-155, | #Attack Phase Speed
-175, | #Recovery Phase Speed
-0, | #Startup Phase Angle
-0, | #Attack Phase Angle
-30, | #Recovery Phase Angle
+120, | #Charge Damage
+200, | #Knockback Velocity
+90, | #Knockback Angle
+35, | #Homing
+13, | #Startup Phase Duration (+3 for # of Frames)
+25, | #Attack Phase Duration (+1 for # of Frames)
+14, | #Recovery Phase Duration
+65, | #Startup Phase Speed
+120, | #Attack Phase Speed
+90, | #Recovery Phase Speed
+8, | #Startup Phase Angle
+24, | #Attack Phase Angle
+36, | #Recovery Phase Angle
 94, | #Hitbox Size Related
 16, | #Hitbox Size Related
 -60       #Hitbox Size Related
