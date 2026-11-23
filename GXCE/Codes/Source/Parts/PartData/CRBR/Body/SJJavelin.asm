@@ -32,7 +32,7 @@ half[1] |
 byte[22] |
 105, | #Defense
 100, | #Knockback
-120, | #Hitstun
+110, | #Hitstun
 0, | #Illegal Toggle
 150, | #Time Spent Down without Mashing
 57, | #Time Spent Down with Mashing
@@ -45,7 +45,7 @@ byte[22] |
 100, | #Pod Damage
 110, | #Gun Endlag
 4, 7, 10, | #Reduced, Unmodified, and Boosted Air Dash Startup
-8, 12, 16, | #Reduced, Unmodified, and Boosted Dash Landing Lag
+9, 14, 19, | #Reduced, Unmodified, and Boosted Dash Landing Lag
 2, | #Air Dash Type(00 = Normal Air Dash, 01 = Continuous Jump, 02 = LS)
 0 #Number of Continuous Jumps
 half[3] |
@@ -56,14 +56,14 @@ byte[6] |
 15, | #Air Dash Angle
 30, 40, 55#Reduced, Unmodified, and Boosted Air Dash Length
 half [38] |
-140, 150, 160, | #Reduced, Unmodified, and Boosted Air Dash Speed
+135, 150, 165, | #Reduced, Unmodified, and Boosted Air Dash Speed
 0, 100, 0, | #Reduced, Unmodified, and Boosted LS Dash Turning
-65, 75, 85, | #Reduced, Unmodified, and Boosted Run Speed
+60, 75, 95, | #Reduced, Unmodified, and Boosted Run Speed
 100, 200, 300, | #Reduced, Unmodified, and Boosted Ground Acceleration
 75, 110, 160, | #Reduced, Unmodified, and Boosted Ground Turning
-200, 250, 350, | #Reduced, Unmodified, and Boosted Jump Height
+200, 275, 350, | #Reduced, Unmodified, and Boosted Jump Height
 8, 12, 16, | #Reduced, Unmodified, and Boosted Jump Speed
-70, 80, 85, | #Reduced, Unmodified, and Boosted Lateral Air Speed
+70, 80, 90, | #Reduced, Unmodified, and Boosted Lateral Air Speed
 250, 350, 450, | #Reduced, Unmodified, and Boosted Air Acceleration
 8, 12, 16, | #Reduced, Unmodified, and Boosted Landing Lag
 85, 125, 165, | #Reduced, Unmodified, and Boosted Gravity
@@ -82,11 +82,11 @@ half [16] |
 175, | #Knockback Velocity
 80, | #Knockback Angle
 15, | #Homing
-8, | #Startup Phase Duration (+3 for # of Frames)
+7, | #Startup Phase Duration (+3 for # of Frames)
 13, | #Attack Phase Duration (+1 for # of Frames)
 20, | #Recovery Phase Duration
-264, | #Startup Phase Speed
-190, | #Attack Phase Speed
+300, | #Startup Phase Speed
+183, | #Attack Phase Speed
 75, | #Recovery Phase Speed
 90, | #Startup Phase Angle
 -35, | #Attack Phase Angle
